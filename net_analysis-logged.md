@@ -20,7 +20,7 @@ script that recreates new nc session for each line in a file
 
 `flag						Encryption	listen port	send port	TCP/UDP`
 
-`fivectf{is_58_worth_more_than_32}		bitcoin85	8080		8080		TCP`
+`fivectf{is_58_worth_more_than_32}		bitcoin58	8080		8080		TCP`
 
 `fivectf{finally_passing_school_with_an_85}	base85		1234		8585		TCP`
 
@@ -28,5 +28,5 @@ script that recreates new nc session for each line in a file
 
 `fivectf{32_on_a_test_is_great_right}		base32		8888		45006		UDP`
 
-`fivectf{62_is_almost_8_squared}			base62		5353		5003		TCP`
+`fivectf{62_is_almost_8_squared}		base62		5353		5003		TCP`
 
