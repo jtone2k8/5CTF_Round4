@@ -4,6 +4,8 @@ Forensics
 
 - [Cain's Memory](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-cainsmemory)
 
+- [Charlotte's Web](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-charlottesweb)
+
 Misc
 
 - [Butterball](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/OSINT-ButterBall)
