@@ -43,3 +43,4 @@ script that recreates new nc session for each line in a file
 
 `fivectf{62_is_almost_8_squared}		base62		5353		5003		TCP`
 
+CTF challenger must decode each line individually to properly decode the message.
