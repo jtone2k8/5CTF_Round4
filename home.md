@@ -12,6 +12,8 @@ Net_Analysis
 
 - [logged](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-logged)
 
+- [Frozen](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-frozen)
+
 Programming
 
 Reverse_Engineering
