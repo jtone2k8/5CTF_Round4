@@ -8,6 +8,8 @@ Misc
 
 - [Butterball](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/OSINT-ButterBall)
 
+- [turkey tom phone](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/OSINT-turkeytom)
+
 Net_Analysis
 
 - [logged](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-logged)
