@@ -10,6 +10,8 @@ Misc
 
 Net_Analysis
 
+- [logged](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-logged)
+
 Programming
 
 Reverse_Engineering
