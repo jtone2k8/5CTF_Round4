@@ -10,6 +10,8 @@ Misc
 
 - [Butterball](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/OSINT-ButterBall)
 
+- [league of k.vins](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/OSINT-kvins)
+
 - [turkey tom phone](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/OSINT-turkeytom)
 
 Net_Analysis
