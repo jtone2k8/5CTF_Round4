@@ -1,5 +1,4 @@
---------------------------------------------------------------------------------------------------------
-
+>>>
 Frozen Flags
 
 
@@ -7,16 +6,16 @@ Question 1:
 	What OS,Web Browser,Browser Version Number was used in the pcap? (os,browser,version.x)
 flag:
 	linux,Firefox,68.0
+>>>
 
---------------------------------------------------------------------------------------------------------
+>>>
 
 question 2:
 	This pcap was taken from a proxy server, what is the name and version of the proxy?
 	format: name,version
 flag:
 	squid,4.13
-
------------------------------------------------------------------------------------------------------
+>>>
 
 question 3:
 	What is the squid server's hostname?
