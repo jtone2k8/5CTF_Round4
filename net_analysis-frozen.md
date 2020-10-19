@@ -1,29 +1,33 @@
 >>>
-Frozen Flags
-
-
 Question 1:
 	What OS,Web Browser,Browser Version Number was used in the pcap? (os,browser,version.x)
+
 flag:
 	linux,Firefox,68.0
+
+![image](uploads/44763a790e9b47372746fbfd63670284/image.png)
 >>>
 
 >>>
-
 question 2:
 	This pcap was taken from a proxy server, what is the name and version of the proxy?
 	format: name,version
+
 flag:
 	squid,4.13
+
+![image](uploads/73f42e7b640ebe58ac21d7e82a203154/image.png)
 >>>
 
+>>>
 question 3:
 	What is the squid server's hostname?
+
 flag:
 	Arendale's_Gates
 
------------------------------------------------------------------------------------------------------
-
+![image](uploads/77cc1e1ace36ebcf3140a724b6e8e9d4/image.png)
+>>>
 question 4:
 	What is the IP address of the Squid Server?
 flag:
