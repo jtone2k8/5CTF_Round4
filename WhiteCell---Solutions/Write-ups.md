@@ -1,5 +1,3 @@
-Solutions/Write-ups
-
 Crypto
 
 Forensics
