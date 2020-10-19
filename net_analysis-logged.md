@@ -3,20 +3,30 @@ Creation of pcap:
 ![logged_screengrab](uploads/1e0e4d6f14deb2cfd7a0d239a61dc0ea/logged_screengrab.bmp)
 
 loop.txt
-`
+
+>>>
 #!/bin/bash
+
 FILE=$1
+
 sleep=$2
+
 ip="192.168.56.104"
+
 lp=$3
+
 rp=$4
 
 while read LINE; do
+
      echo "Sending: $LINE";
+
      echo $LINE | nc $ip $rp -p $lp -w1;  
+
      sleep $sleep;
+
 done < $FILE
-`
+>>>
 
 script that recreates new nc session for each line in a file
 
