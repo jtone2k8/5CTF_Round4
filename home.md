@@ -24,6 +24,8 @@ Programming
 
 Reverse_Engineering
 
+-[powershell thanksgiving](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/rev_eng_powershell_thanksgiving)
+
 Stego
 
 Win_Analysis
