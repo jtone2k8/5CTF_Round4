@@ -1,0 +1,12 @@
+#!/bin/bash
+FILE=$1
+sleep=$2
+ip="192.168.56.104"
+lp=$3
+rp=$4
+
+while read LINE; do
+     echo "Sending: $LINE";
+     echo $LINE | nc $ip $rp -p $lp -w1 -u;  
+     sleep $sleep;
+done < $FILE
