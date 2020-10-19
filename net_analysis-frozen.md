@@ -28,28 +28,33 @@ flag:
 
 ![image](uploads/77cc1e1ace36ebcf3140a724b6e8e9d4/image.png)
 >>>
+>>>
 question 4:
 	What is the IP address of the Squid Server?
+
 flag:
 	192.168.56.101
-
----------------------------------------------------------------------------------------------------
-
+![image](uploads/ba17b5c1551d1d972b3a5582c8975b11/image.png)
+>>>
+>>>
 question 5: 
 	How many CONNECTs are there is this pcap that went through the proxy?
+
 flag:
 	157
 
---------------------------------------------------------------------------------------------------------
-
+http.request.method == "CONNECT"
+>>>
+>>>
 question 6:
 	Where was the user at when they were redirected to a compromised webpage?
 	www.somepage.tld/subpage/subpage
+
 flag:
 	www.reddit.com/r/frozen
 
--------------------------------------------------------------------------------------------------------
-
+![image](uploads/9a70e0bf6c7b3ee02e56722fd24aebe5/image.png)
+>>>
 question 7: 
 	what web address did the user get tricked into going to that was a compromised web page?
 flag:
