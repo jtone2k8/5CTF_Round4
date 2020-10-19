@@ -6,6 +6,8 @@ Forensics
 
 - [Charlotte's Web](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-charlottesweb)
 
+- [The Heist](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-the_heist)
+
 Misc
 
 - [Butterball](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/OSINT-ButterBall)
