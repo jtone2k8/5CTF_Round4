@@ -122,8 +122,7 @@ https://webqr.com/index.html
 
 - H4sIABj5aF8A/21SPW/bOhSdy19xtywZ6sZKxqIfS4C2U4COhCxREiuK1xEpK45hoECHtxQPHrrmecoP8JjlPaAwXqD8ge79JbmXsh0FqGBeXh6ec+4l6UzPVOKzxUTn0jVVpWo5MdhKbPwShLgoFDiLLeQEOmgL7RWgBU94hY31saYFWp0X/gXwRzEk/Up8Qg8xZIh+WmvriQsTslTKHjg0cdIPjuINlNrmKVaAGWiHJvaaih7sdzrOer5NQXswiKUDo0sF50dV6PGyoUp8iFYzx0GBrSHvnuULQlyr6wA5j3UF2jqdKvEOG5PaIw+lUlM21/YYChXPqPGSLsTBOfhaq/Q9MssoOlqhWH4M6XOIDivecjEFOWIKOdWDOTYQmzaeU0tkuruX/RF3JzxEascmKjZ770ypQ36ow20NZMNJfFaGBEwg6jxQP5COzpXjcbAI6eDlnmKoH3OpAk246EmclBDbeYV13/PTgwy6H6Yg/lRuRxuoD38fUlw0tYWYrohKpeBM3D9pilg/a24fn5Wj3+Lnfw9/davL31//7VYU7m8e/tlufq15fUs7d93q/ibgvGR03a2R5v+/NdsNhW7V3Yb9Bh/+7u5I/z0I3HZDkaDbj8tuTU4/eGu76dZC5EWbpi5fJFN5NfXy6hqdbKxM/JdSyWvpq+nMXuPrpRCZ1D5bzqxyKlZ5ktCtSGkyXcnFXIjR+BRG0QhGpzSPIxonlI9ppvUZ5zSiMxq8R+OE8tOXfc445xHzd3tj9no14LKWZ8LYNyI+43s/1gacdBH3QHvBh/va6c4i8Qj8br+KQAQAAA==
 
->>>
->>>
+![image](uploads/772229d1e53a605619597d3cc6b05976/image.png)
 	
 flag:
 	fivectf{big_summer_blow_out} 
@@ -143,10 +142,14 @@ Hint:
 
 flag:
 	fivectf{some_people_are_worth_melting_for}
+
 location:
 	https://gchq.github.io/CyberChef/#recipe=To_Octal('Space')&input=Zml2ZWN0Zntzb21lX3Blb3BsZV9hcmVfd29ydGhfbWVsdGluZ19mb3J9
+
 encoded flag:
 	146 151 166 145 143 164 146 173 163 157 155 145 137 160 145 157 160 154 145 137 141 162 145 137 167 157 162 164 150 137 155 145 154 164 151 156 147 137 146 157 162 175
+
+![image](uploads/c24a2f9d83fc9e0f9ce7c065593223d7/image.png)
 
 >>>
 >>>
@@ -172,6 +175,9 @@ f             _
        {             y
 Encoded flag:	
 	f_itf}vneseaegcclet__lfim_{y
+
+![image](uploads/98a86c42ff2ef567784b19a6e2a4d092/image.png)
+
 >>>
 >>>
 
@@ -189,6 +195,8 @@ location:
 encoded flag:
 	ghwddsg{cp_xpt_xzos_un_ctjke_z_tmpvnzo?}
 
+![image](uploads/bd85158bbcd78c73daa259ca62c86779/image.png)
+
 >>>
 >>>
 
@@ -205,6 +213,7 @@ location:
 encoded flag:
 	{¿ʇɐq‾ɐ‾ǝʞıן‾ɥʇɹɐǝ‾ǝɥʇ‾ɟɟo‾ƃuıƃuɐɥ‾ǝuoʎɹǝʌǝ‾sı‾ʎɥM}ɟʇɔǝʌıɟ
 
+![image](uploads/5e301dc9e2aa46d7c1aa7b1528c8d602/image.png)
 
 >>>
 >>>
@@ -235,6 +244,7 @@ Turn away and slam the door
 
 >>>
 >>>
+
 fivectf{big_summer_blow_out} 
 
 The snow glows white on the mountain tonight	     	  	    	     
