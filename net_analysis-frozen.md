@@ -55,26 +55,43 @@ flag:
 
 ![image](uploads/9a70e0bf6c7b3ee02e56722fd24aebe5/image.png)
 >>>
+>>>
+
 question 7: 
 	what web address did the user get tricked into going to that was a compromised web page?
+
 flag:
 	www.frozone.com
 
---------------------------------------------------------------------------------------------------------
+http.request.full_uri
+
+![image](uploads/29dbda60fc8585bdc2d5c1d05594c431/image.png)
+
+>>>
+>>>
 
 question 8:
 	what item was dropped on the compromised site that the user was force to download?
+
 flag:
 	QR code
 
------------------------------------------------------------------------------------------------------
+![image](uploads/fb80bfd9a097e3cb764005587c62c37b/image.png)
+
+>>>
+>>>
 
 question 9:
 	what website was spoofed?
+
 flag: 
 	frozen.disney.com	
 
--------------------------------------------------------------------------------------------------------
+![image](uploads/3ee6718c469e691e0dcaafa6f0b67278/image.png)
+
+![image](uploads/c2487614654b0fdfc8e10f42fb1b308f/image.png)
+>>>
+>>>
 
 question 10: 
 	What is the flag that is created when the QR code pieces are put back in order?
@@ -82,13 +99,31 @@ question 10:
 flag:  
 	frozen_multipack
 
--------------------------------------------------------------------------------------------------------
+![image](uploads/09b79eccde54135fa4a5bfc909df6260/image.png)
+
+![image](uploads/d21e35a2b9a50c02f57bcae55f8eb0c8/image.png)
+
+![image](uploads/4006fda5a3671708dd26fab9e0500e16/image.png)
+
+>>>
+>>>
 
 question 11: 
 	What is the flag that you see when you open the QR code up?
 
 hint: 
 	Kristoff was a Guy that zipped up to help Anna find her sister
+
+https://webqr.com/index.html
+
+![image](uploads/4719d14c6c4d4320e13be5667feabb3e/image.png)
+
+![image](uploads/b7355cd761a9dde1e3375cd51eb3c984/image.png)
+
+- H4sIABj5aF8A/21SPW/bOhSdy19xtywZ6sZKxqIfS4C2U4COhCxREiuK1xEpK45hoECHtxQPHrrmecoP8JjlPaAwXqD8ge79JbmXsh0FqGBeXh6ec+4l6UzPVOKzxUTn0jVVpWo5MdhKbPwShLgoFDiLLeQEOmgL7RWgBU94hY31saYFWp0X/gXwRzEk/Up8Qg8xZIh+WmvriQsTslTKHjg0cdIPjuINlNrmKVaAGWiHJvaaih7sdzrOer5NQXswiKUDo0sF50dV6PGyoUp8iFYzx0GBrSHvnuULQlyr6wA5j3UF2jqdKvEOG5PaIw+lUlM21/YYChXPqPGSLsTBOfhaq/Q9MssoOlqhWH4M6XOIDivecjEFOWIKOdWDOTYQmzaeU0tkuruX/RF3JzxEascmKjZ770ypQ36ow20NZMNJfFaGBEwg6jxQP5COzpXjcbAI6eDlnmKoH3OpAk246EmclBDbeYV13/PTgwy6H6Yg/lRuRxuoD38fUlw0tYWYrohKpeBM3D9pilg/a24fn5Wj3+Lnfw9/davL31//7VYU7m8e/tlufq15fUs7d93q/ibgvGR03a2R5v+/NdsNhW7V3Yb9Bh/+7u5I/z0I3HZDkaDbj8tuTU4/eGu76dZC5EWbpi5fJFN5NfXy6hqdbKxM/JdSyWvpq+nMXuPrpRCZ1D5bzqxyKlZ5ktCtSGkyXcnFXIjR+BRG0QhGpzSPIxonlI9ppvUZ5zSiMxq8R+OE8tOXfc445xHzd3tj9no14LKWZ8LYNyI+43s/1gacdBH3QHvBh/va6c4i8Qj8br+KQAQAAA==
+
+>>>
+>>>
 	
 flag:
 	fivectf{big_summer_blow_out} 
@@ -97,7 +132,8 @@ location:
 encoded flag:
 	-
 
------------------------------------------------------------------------------------------------------
+>>>
+>>>
 
 Question 12: 
 	Find the flag with a bunch of random numbers?
@@ -112,7 +148,8 @@ location:
 encoded flag:
 	146 151 166 145 143 164 146 173 163 157 155 145 137 160 145 157 160 154 145 137 141 162 145 137 167 157 162 164 150 137 155 145 154 164 151 156 147 137 146 157 162 175
 
---------------------------------------------------------------------
+>>>
+>>>
 Question 13:
 	Find the flag with legs.
 
@@ -135,7 +172,8 @@ f             _
        {             y
 Encoded flag:	
 	f_itf}vneseaegcclet__lfim_{y
---------------------------------------------------------------------
+>>>
+>>>
 
 Question 14: 
 	Find the shifty looking snowman.
@@ -151,7 +189,8 @@ location:
 encoded flag:
 	ghwddsg{cp_xpt_xzos_un_ctjke_z_tmpvnzo?}
 
-----------------------------------------------------------------------
+>>>
+>>>
 
 question 15: 	
 	find the bat like flag.
@@ -167,7 +206,8 @@ encoded flag:
 	{¿ʇɐq‾ɐ‾ǝʞıן‾ɥʇɹɐǝ‾ǝɥʇ‾ɟɟo‾ƃuıƃuɐɥ‾ǝuoʎɹǝʌǝ‾sı‾ʎɥM}ɟʇɔǝʌıɟ
 
 
--------------------------------------------------------------------------
+>>>
+>>>
 
 question 16: 
 	olaf is a true friend dont you think?
@@ -193,7 +233,8 @@ Let it go, let it go
 Turn away and slam the door	     	   	     	    	   	       
   
 
-***********************************************************************************
+>>>
+>>>
 fivectf{big_summer_blow_out} 
 
 The snow glows white on the mountain tonight	     	  	    	     
@@ -216,7 +257,8 @@ f_itf}vneseaegcclet__lfim_{y
 
 146 151 166 145 143 164 146 173 163 157 155 145 137 160 145 157 160 154 145 137 141 162 145 137 167 157 162 164 150 137 155 145 154 164 151 156 147 137 146 157 162 175
 
-************************************************************************************
+>>>
+>>>
 
 gzipped
 
@@ -232,3 +274,4 @@ b64 encoded
 H4sIABj5aF8A/21SPW/bOhSdy19xtywZ6sZKxqIfS4C2U4COhCxREiuK1xEpK45hoECHtxQPHrrmecoP8JjlPaAwXqD8ge79JbmXsh0FqGBeXh6ec+4l6UzPVOKzxUTn0jVVpWo5MdhKbPwShLgoFDiLLeQEOmgL7RWgBU94hY31saYFWp0X/gXwRzEk/Up8Qg8xZIh+WmvriQsTslTKHjg0cdIPjuINlNrmKVaAGWiHJvaaih7sdzrOer5NQXswiKUDo0sF50dV6PGyoUp8iFYzx0GBrSHvnuULQlyr6wA5j3UF2jqdKvEOG5PaIw+lUlM21/YYChXPqPGSLsTBOfhaq/Q9MssoOlqhWH4M6XOIDivecjEFOWIKOdWDOTYQmzaeU0tkuruX/RF3JzxEascmKjZ770ypQ36ow20NZMNJfFaGBEwg6jxQP5COzpXjcbAI6eDlnmKoH3OpAk246EmclBDbeYV13/PTgwy6H6Yg/lRuRxuoD38fUlw0tYWYrohKpeBM3D9pilg/a24fn5Wj3+Lnfw9/davL31//7VYU7m8e/tlufq15fUs7d93q/ibgvGR03a2R5v+/NdsNhW7V3Yb9Bh/+7u5I/z0I3HZDkaDbj8tuTU4/eGu76dZC5EWbpi5fJFN5NfXy6hqdbKxM/JdSyWvpq+nMXuPrpRCZ1D5bzqxyKlZ5ktCtSGkyXcnFXIjR+BRG0QhGpzSPIxonlI9ppvUZ5zSiMxq8R+OE8tOXfc445xHzd3tj9no14LKWZ8LYNyI+43s/1gacdBH3QHvBh/va6c4i8Qj8br+KQAQAAA==
 
 QR Code
+>>>
