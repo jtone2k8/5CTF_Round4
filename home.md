@@ -22,6 +22,8 @@ Net_Analysis
 
 - [Frozen](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-frozen)
 
+- [Bad Neighbor](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-badneighbor)
+
 Programming
 
 - [Yara-elves](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/prog-yara_elves)
