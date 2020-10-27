@@ -18,11 +18,13 @@ Misc
 
 Net_Analysis
 
-- [logged](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-logged)
+- [Bad Neighbor](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-badneighbor)
 
 - [Frozen](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-frozen)
 
-- [Bad Neighbor](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-badneighbor)
+- [logged](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-logged)
+
+- [Pursuit](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-pursuit)
 
 Programming
 
