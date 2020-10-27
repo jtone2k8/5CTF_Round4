@@ -16,6 +16,9 @@
 
 `Where is the company that made the the source headquartered? (country)`
 
+![image](uploads/437d9123c58547b5bc9da33b38cf4aa4/image.png)
+
+![image](uploads/d6fd92d7e4f3c65fe0cae6e32d8a43c6/image.png)
 
 `In which packet number do we get the first reply from the destination IP?`
 
