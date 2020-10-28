@@ -2,7 +2,7 @@ Here is one valid solution, there are other ways to solve this than breaking out
 
 Read in the gif image and break the layers into individual .bmp images
 
-`
+```
 from PIL import Image, ImageMath
 
 im = Image.open("/home/kali/Desktop/horse.gif")
@@ -26,11 +26,11 @@ try:
 except EOFError:
 
     pass # end of sequence
-`
+```
 
 Run this code on the 734 layers to put it back together
 
-`
+```
 with open('1.bmp', 'rb') as f:
 
     answer = f.read()
@@ -52,4 +52,4 @@ for layer in range(2, 734):
 with open('answer.bmp', 'wb') as f:
 
     f.write(answer)
-`
+```
