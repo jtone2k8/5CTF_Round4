@@ -1,3 +1,4 @@
+```
 # STEP 1a
 # Identify the endbits
 
@@ -148,3 +149,4 @@ for alph in perm(triads.values(), 6):
 
 
 ("Wow. I wasn't even sure that Disorderly 1 could be solved.  Congratulations!  I'm basically just writing out a bunch of words so you have more data to work with.  Otherwise it would be more difficult.  Anyway, your flag is flag{the_world_is_finally_in_order_through_entropy}", 'acfdwzeklbingpthuvoqsjmrxy')
+```
