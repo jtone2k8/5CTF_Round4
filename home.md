@@ -1,6 +1,6 @@
 Crypto
 - [Disorderly 2]
-(https://gitlab.com/aptgetKubert/holiday_5ctf/-wikis/Disorderly-2
+(https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/Disorderly-2)
 
 Forensics
 
