@@ -3,44 +3,73 @@ Level 1 Questions
 Santa had a backlog of toys that needed to be made, so he had to put his crew of elves to work. He assigned each elf randomly three items to make and handed them a piece of paper, but he forgot to write down the totals for toys that he assigned them. You have been tasked with creating an inventory.
 
 1 - 
+
 Can you tell Santa how many Dominoes that were made?
+
 Flag - 3
 
 2 - 
+
 Santa needs a total count of Sound toys that were made. How many Sound toys got made?
+
 flag - 20
 
 3 - 
+
 One of Santa's favorite toys is a toy train, how many Toy Trains were made?
+
 flag - 2
 
 >>>
+
+```
 rule Dominoes
+
 {
+
     strings:
+
 	$dominoes = "Dominoes" nocase wide
 
     condition:
+
         any of them
+
 }
+```
 /*
+
 .\yara64.exe -r .\level1.yar .\elves_level1 | Select-String Dominoes | measure
+
 Flag - 3
+
 */
+```
 
 rule Sound
+
 {
+
     strings:
+
 	$sound = "sound" nocase wide
 
     condition:
+
         $sound
+
 }
+```
+
 /*
+
 .\yara64.exe -r .\level1.yar .\elves_level1 | Select-String sound | measure
+
 Flag - 20
+
 */
 
+```
 rule Train
 {
     strings:
@@ -49,9 +78,14 @@ rule Train
     condition:
         any of them
 }
+```
+
 /*
+
 .\yara64.exe -r .\level1.yar .\elves_level1 | Select-String Train | measure
+
 Flag - 2
+
 */
 >>>
 
@@ -71,14 +105,22 @@ flag - 13
 One of Santa's favorite toys to keep his calm is a Fidget Spinner, how many Fidget Spinner were made?
 flag - 3
 >>>
+
+```
 rule shopkins
+
 {
+
     strings:
+
 	$shopkin = /sh\(*\)*\(*\)*o\(*\)*\(*\)*pk1*i1*ns/ nocase wide
 
     condition:
+
         any of them
+
 }
+```
 
 /*
 .\yara64.exe -r .\level2.yar .\elves_level2 | Select-String shopkins | measure
