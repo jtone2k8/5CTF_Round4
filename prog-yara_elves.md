@@ -275,7 +275,7 @@ flag: 10
 */
 
 ```
-rule moon
+rule moonshoes
 
 {
 
@@ -292,7 +292,7 @@ rule moon
 
 /*
 
-.\yara64.exe -r .\level3.yar .\elves_level3 | Select-String moon | measure
+.\yara64.exe -r .\level3.yar .\elves_level3 | Select-String moonshoes | measure
 
 flag: 8
 
