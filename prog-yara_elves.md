@@ -207,7 +207,7 @@ flag - 13
 
 Santa wants to jump for joy when this is all over, and he needs a pair of Moon Shoes. how many Moon Shoes were made?
 
-flag - 0
+flag - 8
 
 >>>
 ```
@@ -294,7 +294,7 @@ rule moon
 
 .\yara64.exe -r .\level3.yar .\elves_level3 | Select-String moon | measure
 
-flag: 0
+flag: 8
 
 */
 >>>
