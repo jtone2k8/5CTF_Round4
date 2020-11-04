@@ -1,6 +1,8 @@
 Crypto
 - [Disorderly 2](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/Disorderly-2)
 
+- [Hawaiian Rolls](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/crypto-hawaiianrolls)
+
 Forensics
 
 - [Cain's Memory](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-cainsmemory)
