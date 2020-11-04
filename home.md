@@ -33,6 +33,8 @@ Net_Analysis
 
 Programming
 
+- [Jurassic Awk](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/prog-jurassicawk)
+
 - [Yara-elves](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/prog-yara_elves)
 
 Reverse_Engineering
