@@ -1,5 +1,4 @@
-`
-
+```
 #Z  m  l  2  Z  W  N  0  Z  n  t  p  b  n  Z  v  a  2  V  f  d  G  h  l  X  2  V  2  b  2  t  l  c  n  N  9
 
 #23 31 18 2  5  7  26 36 28 19 29 35 27 1  23 24 32 20 30 11 16 13 14 3  34 10 8  33 17 9  4  15 25 22 6  21
@@ -63,5 +62,4 @@ $answer+= ('{4}{15}{25}' -f $f)     #tlc
 $answer+= ('{22}{6}{21}' -f $f)     #nN9 
 
 [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($answer))
-
-`
+```
