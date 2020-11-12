@@ -46,3 +46,4 @@ Stego
 
 Win_Analysis
 
+- [Invoked](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/win_analysis_invoked)
