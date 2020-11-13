@@ -1,6 +1,12 @@
 Creation of pcap:
 
-![logged_screengrab](uploads/1e0e4d6f14deb2cfd7a0d239a61dc0ea/logged_screengrab.bmp)
+Sender
+
+![image](uploads/106e533b3e81602a3ce18bec3afa2e1a/image.png)
+
+Reciever
+
+![image](uploads/cd7beca0e31c0bb976b36825792a4a35/image.png)
 
 loop.txt
 
