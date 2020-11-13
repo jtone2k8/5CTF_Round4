@@ -9,12 +9,15 @@ Flag: fivectf{turkeys_go_gobble_gobble}
 Question:
 
 Encoding:
+
   inVOKe-ExPRessION ( ('xiz'+'turkey=3UN'+'f'+'ivect'+'f{tur'+'keys_'+'g'+'o_gob'+'b'+'le_'+'gobble}3UN').REpLACE(([ChAr]120+[ChAr]105+[ChAr]122),[StRiNG][ChAr]36).REpLACE(([ChAr]51+[ChAr]85+[ChAr]78),[StRiNG][ChAr]34)) 
 
 Endcoded Message:
+
 $turkey="fivectf{turkeys_go_gobble_gobble}"
 
 Obfuscation Technique:
+
 String Concatenate x1
 
 ***********************************
@@ -24,12 +27,15 @@ Flag: fivectf{lets_get_basted}
 Question:
 
 Encoding:
+
 (("{7}{8}{5}{0}{6}{2}{3}{10}{1}{4}{11}{9}"-f'6nf','_g','v','ectf{l','et_ba','te=5','i','h5Gb','as','ted}56n','ets','s')).rePLAce('h5G','$').rePLAce(([ChAR]53+[ChAR]54+[ChAR]110),[STrING][ChAR]34)| &((geT-VARiAbLe '*mDR*').naME[3,11,2]-JOIn'')
 
 Endcoded Message:
+
 $baste="fivectf{lets_get_basted}"
 
 Obfuscation Technique:
+
 Reorder x1
 
 ***********************************
@@ -39,12 +45,15 @@ Flag: fivectf{oh_my_gourd}
 Question:
 
 Encoding:
+
 $BRS69A =  [chAR[] ]")'x'+]03[emOhSp$+]12[emOhsP$ (.|)63]rAHc[]gNirts[,)611]rAHc[+86]rAHc[+511]rAHc[((EcALpER.)43]rAHc[]gNirts[,'5xn'(EcALpER.)'5xn}'+'d'+'r'+'uo'+'g_y'+'m_h'+'o'+'{ftc'+'evif5x'+'n='+'druo'+'gtDs'( " ; [ARraY]::RevErsE( $brS69A ) ; .( $SHELLId[1]+$SHEllid[13]+'X') (" $( sEt-ITem  'vArIABle:ofs'  '' )" + [StRINg] ( $brS69A ) +"$( sET-VAriAblE  'OFS' ' ')" )
 
 Endcoded Message:
+
 $gourd="fivectf{oh_my_gourd}"
 
 Obfuscation Technique:
+
 reverse x1
 
 ***********************************
@@ -54,12 +63,15 @@ Flag: fivectf{silence_of_the_yams}
 Question:
 
 Encoding:
+
  -JOIn ( (36,121, 97, 109, 61 , 34 , 102 ,105,118 , 101,99, 116, 102, 123 ,115, 105 , 108,101,110,99 ,101, 95,111 , 102 ,95 ,116 ,104 ,101 ,95, 121, 97 , 109, 115, 125, 34 )| foREacH{( [chaR] [iNT]$_) })|&((vAriAblE '*MdR*').nAMe[3,11,2]-joIN'')
 
 Endcoded Message:
+
 $yam="fivectf{silence_of_the_yams}"
 
 Obfuscation Technique:
+
 Encoding ASCII x1
 
 ***********************************
@@ -69,12 +81,15 @@ Flag: fivectf{gobble_til_you_wobble}
 Question:
 
 Encoding:
+
  "$( seT-item  'vARIABlE:Ofs'  '' )" + [strING]('24x77W6f}62o62o6c{65;3d{22;66o69;76x65g63}74;66g7b_67x6fW62;62{6c;65o5fx74o69x6c;5fx79o6fW75}5f_77}6fx62o62{6co65g7d{22;3b;52x65_6d_6fx76W65}2dx56x61W72g69W61}62_6c{65}20_77o6fg62;62{6c_65'.sPlit('_{xW;}go') | FOReAcH-ObJECT { ( [cHar]([coNvErT]::TOiNT16(($_.tOsTrInG() ),16))) } )+"$( sEt-VAriaBle  'Ofs' ' ') " | Iex
 
 Endcoded Message:
+
 $wobble="fivectf{gobble_til_you_wobble}";Remove-Variable wobble
 
 Obfuscation Technique:
+
 Encoding Hex x1
 
 ***********************************
@@ -84,12 +99,15 @@ Flag: fivectf{this_is_how_i_roll}
 Question:
 
 Encoding:
- ( '44S162p157p154R154d75f42W146p151f166b145E143I164S146E173E164I150R151p163f137f151p163b137f150I157W167d137W151S137f162E157S154f154E175E42'.SpLit('I,bRfWdSEp' ) | fOReACh-OBjEct { ([char]([cONVErt]::ToiNt16( ([StRiNg]$_ ),8)))} ) -Join''| & ( $PsHoME[4]+$PShOME[30]+'X')
+
+&( $PshoMe[4]+$PshOmE[34]+'X')( -JOIN('44E162L157s154B154;75N42B146s151t166;145E143E164B146t173N164t150B151k163s137k151N163B137t150;157s167L137N151N137t162t157i154E154i175k42i73t122f145N155t157L166E145L55i126N141s162B151t141N142i154;145s40N162;157N154;154'.SPLIT(';NkfLEsiBt' ) | forEach {([ChAr]( [coNVert]::toINt16(($_.toStRIng() ),8 ))) }) ) 
 
 Endcoded Message:
-$roll="fivectf{this_is_how_i_roll}"
+
+$roll="fivectf{this_is_how_i_roll}";Remove-Variable roll
 
 Obfuscation Technique:
+
 encoding octal x1
 
 ***********************************
@@ -99,12 +117,15 @@ Flag: fivectf{off_the_rails_on_gray_train}
 Question:
 
 Encoding:
- "$( set-IteM 'varIAbLE:OFs'  '' )"+ [StRIng]( (100100,1100111 , 1110010,1100001,1110110,1111001, 111101 , 100010 ,1100110, 1101001 ,1110110 ,1100101 ,1100011 , 1110100 ,1100110 , 1111011 , 1101111,1100110 ,1100110, 1011111 , 1110100, 1101000,1100101 ,1011111 ,1110010,1100001 ,1101001,1101100 ,1110011 , 1011111, 1101111 , 1101110 ,1011111,1100111 , 1110010 , 1100001,1111001, 1011111 ,1110100 ,1110010 ,1100001,1101001 ,1101110,1111101 ,100010 ) |FoReAch { ([CHaR]( [cOnveRt]::TOINt16( ($_.TOSTRinG()),2) ))})+"$( sET-VAriaBle  'ofs' ' ' ) "| invOKe-EXPRESSion
+
+invOKE-exprEsSioN (" $( sEt-IteM  'vAriABLe:OFS'  '') "+ [STRInG]( ( 100100 , 1100111 ,1110010, 1100001 , 1110110 , 1111001,111101, 100010 ,1100110 ,1101001 , 1110110, 1100101 , 1100011, 1110100, 1100110, 1111011 , 1101111 ,1100110, 1100110 ,1011111, 1110100, 1101000, 1100101 ,1011111 , 1110010,1100001 ,1101001 , 1101100, 1110011 ,1011111 , 1101111 ,1101110 , 1011111 , 1100111 ,1110010 , 1100001,1111001 ,1011111 ,1110100, 1110010 , 1100001 ,1101001 , 1101110 ,1111101,100010 , 111011 , 1110010 ,1100101 , 1101101, 1101111,1110110 , 1100101 ,101101,1110110, 1100001, 1110010 ,1101001, 1100001 , 1100010 , 1101100, 1100101,100000 , 1100111 ,1110010, 1100001,1110110, 1111001 ) |foREAch{ ( [CHaR] ([ConVErT]::Toint16(( $_.TOStRiNG() ) ,2) )) } )+" $( sEt-ItEm 'VaRiable:OFs' ' ') ")
 
 Endcoded Message:
+
 $gravy="fivectf{off_the_rails_on_gray_train}"
 
 Obfuscation Technique:
+
 encoding binary x1
 
 ***********************************
