@@ -9,10 +9,10 @@ Flag: fivectf{turkeys_go_gobble_gobble}
 Question:
 
 Encoding:
- ('V4z'+'tu'+'r'+'ke'+'y=oQrfiv'+'e'+'ct'+'f{'+'tu'+'rkey'+'s_go_'+'gobb'+'l'+'e_'+'gobb'+'le'+'}oQr;Rem'+'ove-'+'Vari'+'ab'+'le turkey').REpLAce('V4z',[stRING][CHAr]36).REpLAce('oQr',[stRING][CHAr]34)|invOKE-expReSSioN
+  inVOKe-ExPRessION ( ('xiz'+'turkey=3UN'+'f'+'ivect'+'f{tur'+'keys_'+'g'+'o_gob'+'b'+'le_'+'gobble}3UN').REpLACE(([ChAr]120+[ChAr]105+[ChAr]122),[StRiNG][ChAr]36).REpLACE(([ChAr]51+[ChAr]85+[ChAr]78),[StRiNG][ChAr]34)) 
 
 Endcoded Message:
-$turkey="fivectf{turkeys_go_gobble_gobble}";Remove-Variable turkey
+$turkey="fivectf{turkeys_go_gobble_gobble}"
 
 Obfuscation Technique:
 String Concatenate x1
