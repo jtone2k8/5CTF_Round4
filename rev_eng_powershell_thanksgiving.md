@@ -69,10 +69,10 @@ Flag: fivectf{gobble_til_you_wobble}
 Question:
 
 Encoding:
- &( $PshomE[4]+$PsHOMe[34]+'x') ( -JoiN('24J77~6fg62-62J6c~65N3dg22g66-69N76}65Y63S74Y66g7bY67-6fS62S62~6cY65Y5fJ74J69S6c}5fY79J6fY75}5fN77J6fY62}62Y6c}65-7dJ22'.splIT( 'J}g~-SNY' )| foREAcH-OBJeCT{ ( [ConVErT]::tOint16( ( [StRiNg]$_ ) , 16 )-aS[chAr]) }) )
+ "$( seT-item  'vARIABlE:Ofs'  '' )" + [strING]('24x77W6f}62o62o6c{65;3d{22;66o69;76x65g63}74;66g7b_67x6fW62;62{6c;65o5fx74o69x6c;5fx79o6fW75}5f_77}6fx62o62{6co65g7d{22;3b;52x65_6d_6fx76W65}2dx56x61W72g69W61}62_6c{65}20_77o6fg62;62{6c_65'.sPlit('_{xW;}go') | FOReAcH-ObJECT { ( [cHar]([coNvErT]::TOiNT16(($_.tOsTrInG() ),16))) } )+"$( sEt-VAriaBle  'Ofs' ' ') " | Iex
 
 Endcoded Message:
-$wobble="fivectf{gobble_til_you_wobble}"
+$wobble="fivectf{gobble_til_you_wobble}";Remove-Variable wobble
 
 Obfuscation Technique:
 Encoding Hex x1
