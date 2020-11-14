@@ -204,26 +204,35 @@ compress x1
 Medium 2x items
 ***********************************
 12.
+
 Flag: fivectf{your_the_apple_of_my_pie}
 
 Decoded Message Step by Step:
-reverse x1
-Set ('57'+'IC')  ([chAr[] ]"))43]RaHC[,'vil' EcALpER-63]RaHC[,)77]RaHC[+011]RaHC[+121]RaHC[(EcALpER-  )'v'+'i'+'l'+'}e'+'ip'+'_'+'ym_'+'f'+'o_elppa_e'+'ht'+'_ruoy'+'{ft'+'cevi'+'fvil='+'elppaMny'((()''nIoJ-'x'+]3,1[)(gniRTSoT.ecNeReFerPesobREv$ ( . "); [aRrAy]::ReveRSE($57Ic) ; &((vaRIaBle '*MdR*').NAme[3,11,2]-JOin'')( "$( seT  'OFs' '' ) " + [sTRiNG]( $57Ic )+" $(sEt-Item 'VArIAbLE:oFS'  ' ' )" ) 
 
-reoder x1
-(("{58}{10}{90}{89}{20}{117}{121}{94}{129}{107}{54}{91}{80}{35}{44}{55}{126}{141}{62}{135}{77}{104}{22}{15}{132}{26}{87}{19}{110}{49}{113}{23}{34}{53}{111}{66}{33}{63}{142}{38}{40}{125}{109}{84}{13}{0}{100}{124}{30}{127}{50}{45}{131}{85}{138}{47}{17}{43}{12}{67}{115}{27}{137}{120}{134}{82}{8}{106}{16}{48}{4}{61}{1}{59}{36}{81}{75}{102}{18}{2}{42}{69}{25}{78}{99}{68}{24}{96}{136}{21}{31}{95}{118}{7}{98}{71}{3}{73}{83}{123}{56}{140}{29}{128}{74}{60}{119}{108}{103}{39}{76}{6}{52}{86}{97}{32}{65}{92}{112}{105}{9}{122}{130}{139}{70}{51}{41}{72}{88}{28}{14}{64}{79}{5}{133}{93}{37}{116}{46}{114}{101}{57}{11}"-f 'f','ecNe','0X9)','dR','qL','E',' 0X9vts( se','aBl','LU','qLU ) ','t (qLU57',' ) ','+qLUceviqL','LU+qLU','rI','cAL','nIoJ-','U+qLU{ftq','bREvvts ( . ',' ','LUI','ts','[(E','qLU+qL','veR','aR','ER','fvil=q',' qLUVA','1,2','qL','5','q','U+q','Ui','LUvil','Fe','Sq','eqLU+',')','qLUipqLU+q','c )+0X9 vts(sE',';','LU','qLU EcAL','pp','U  ','L','qLUx',')qL','_el','ts57I','T','qLU+qL',']RaHC[','pER-63]RaHC[','.NA','LU )0X9','Se','Re','inq','U+]3,1[)(gniRTSoT.','aHC[+','L','Ab','L','L','U+','::Re',' [','( v',' qLU*M','t-It','*','JO','Pes','(','RaHC[+','rA','L','q','r','((()q','q','ym_q','tqLU+qL','  q','-','em','LU+q','q',',','U','oF','9','7Ic) ','S','LUOFs','e','y]','qL','U q','o','qLU','121]RaHC','LU','qLU','3','U','LU',' ','Ulq',' q','Uv','qL','qLU','L','CqLU)  ([chA','; &((vaRI','L','LUelppa','r[] ]0X','0X9 + [sT','LU)','U+','LU_qLU+q',',)','Uo',']-','))4','RiNG','a_eqLU+qLUh','p',':','MnyqLU','011]','E(v','LU+q','U_ruoyq',']','me[3,1','77]R','U}')).rEplaCe(([Char]48+[Char]88+[Char]57),[StRiNg][Char]34).rEplaCe(([Char]113+[Char]76+[Char]85),[StRiNg][Char]39).rEplaCe('vts',[StRiNg][Char]36)| . ( $PSHOmE[4]+$pShoME[34]+'x')
+reverse x1
+
+$UpX8B3=" )''NIOj-]52,51,4[cepsmOc:VNe$ ( &|)43]raHC[]gNIrts[,)15]raHC[+48]raHC[+57]raHC[((ecalPEr.)63]raHC[]gNIrts[,'vnc'(ecalPEr.)'elppa e'+'l'+'ba'+'irav-evomer;'+'3T'+'K}'+'eip_ym_fo_'+'elppa_eh'+'t_r'+'uoy'+'{ftce'+'v'+'if3TK=e'+'lp'+'pavnc'( "; iEx(" $(seT-ItEm 'vARiaBLe:ofS' '')" + [STRiNg] ( $UPX8b3[ - 1.. - ( $UPX8b3.LEnGTH) ])+" $( seT-iTEm 'VAriable:ofS'  ' ' ) " )
+
+reorder x1
+
+((("{106}{71}{112}{109}{60}{39}{38}{15}{7}{30}{75}{27}{3}{63}{20}{58}{104}{107}{25}{35}{16}{11}{24}{92}{45}{31}{108}{14}{64}{115}{94}{65}{37}{116}{55}{66}{59}{69}{56}{88}{96}{89}{46}{50}{42}{98}{102}{51}{8}{110}{57}{74}{103}{47}{44}{99}{68}{34}{21}{114}{91}{19}{85}{33}{72}{113}{28}{32}{70}{48}{17}{2}{95}{101}{26}{22}{29}{10}{84}{90}{9}{0}{62}{49}{81}{105}{73}{53}{52}{100}{1}{4}{41}{61}{78}{54}{83}{43}{86}{80}{77}{5}{6}{111}{76}{97}{13}{82}{87}{36}{79}{12}{18}{40}{93}{67}{23}"-f'eT-It','9','vncY','[]gNI','E)o0L + ',' ( ','8x','2,51,4[cepsmOc:VNe8xG ','9E','(s','0','cal','Ariabl',')','s[,','9ENIOj-]5','e','a','e:of','+Y9E{ftceY9','[','9E','x',' Y9E ) o0L ) ','PEr.','aHC[+57]raH','E','C','9','(o','( &DkT)4',']','E+Y9E','Ev','_rY9E+Y','C[((','9E','.)','Y',')Y9E','SY','[','v-evomer;Y','UPX8b3[ ','E+Y9Eelp','raHC[','EbaY9','_Y9','Ep','v','E+Y9Eira','Y','9E Y','Y','] ( 8','Eel','9ElY','+Y9Eei',',)15]','Y9E','o0L ','STRiN','Em Y9E','rts','Y9EvncY9E(','r','ppa e','E  Y9E','+Y9Et','+Y','lpY9E+Y9','G','Y9E+Y9Eif3','S','p_ym_','3]raH','PX8b3.','-','g','V','.. ','ARiaBLe',' ])+o0L 8xG( seT','xG','L ','E+Y9','- 1','-iTEm Y','9E+','9','8xG','oyY9E',')63]','9','E','9E( o','Y','LEnGTH','9E+Y','pa_ehY9E','9EY','0L; i','9E3T','fo','raH',':of','8x','C[+48]r','gNIrt','B3=','+Y9EK}Y9E','GU','UpX8','TK=eY','u','ecalP','Y9'))  -cREPlaCe([CHAr]56+[CHAr]120+[CHAr]71),[CHAr]36  -cREPlaCe ([CHAr]89+[CHAr]57+[CHAr]69),[CHAr]39 -cREPlaCe([CHAr]111+[CHAr]48+[CHAr]76),[CHAr]34  -replACE  'DkT',[CHAr]124) |.( $enV:ComSpEC[4,24,25]-joiN'')
 
 Launch CMD
 
 Encoding:
-cmd.eXE  /C  PoWErShell   "((\"{58}{10}{90}{89}{20}{117}{121}{94}{129}{107}{54}{91}{80}{35}{44}{55}{126}{141}{62}{135}{77}{104}{22}{15}{132}{26}{87}{19}{110}{49}{113}{23}{34}{53}{111}{66}{33}{63}{142}{38}{40}{125}{109}{84}{13}{0}{100}{124}{30}{127}{50}{45}{131}{85}{138}{47}{17}{43}{12}{67}{115}{27}{137}{120}{134}{82}{8}{106}{16}{48}{4}{61}{1}{59}{36}{81}{75}{102}{18}{2}{42}{69}{25}{78}{99}{68}{24}{96}{136}{21}{31}{95}{118}{7}{98}{71}{3}{73}{83}{123}{56}{140}{29}{128}{74}{60}{119}{108}{103}{39}{76}{6}{52}{86}{97}{32}{65}{92}{112}{105}{9}{122}{130}{139}{70}{51}{41}{72}{88}{28}{14}{64}{79}{5}{133}{93}{37}{116}{46}{114}{101}{57}{11}\"-f 'f','ecNe','0X9)','dR','qL','E',' 0X9vts( se','aBl','LU','qLU ) ','t (qLU57',' ) ','+qLUceviqL','LU+qLU','rI','cAL','nIoJ-','U+qLU{ftq','bREvvts ( . ',' ','LUI','ts','[(E','qLU+qL','veR','aR','ER','fvil=q',' qLUVA','1,2','qL','5','q','U+q','Ui','LUvil','Fe','Sq','eqLU+',')','qLUipqLU+q','c )+0X9 vts(sE',';','LU','qLU EcAL','pp','U  ','L','qLUx',')qL','_el','ts57I','T','qLU+qL',']RaHC[','pER-63]RaHC[','.NA','LU )0X9','Se','Re','inq','U+]3,1[)(gniRTSoT.','aHC[+','L','Ab','L','L','U+','::Re',' [','( v',' qLU*M','t-It','*','JO','Pes','(','RaHC[+','rA','L','q','r','((()q','q','ym_q','tqLU+qL','  q','-','em','LU+q','q',',','U','oF','9','7Ic) ','S','LUOFs','e','y]','qL','U q','o','qLU','121]RaHC','LU','qLU','3','U','LU',' ','Ulq',' q','Uv','qL','qLU','L','CqLU)  ([chA','; &((vaRI','L','LUelppa','r[] ]0X','0X9 + [sT','LU)','U+','LU_qLU+q',',)','Uo',']-','))4','RiNG','a_eqLU+qLUh','p',':','MnyqLU','011]','E(v','LU+q','U_ruoyq',']','me[3,1','77]R','U}')).rEplaCe(([Char]48+[Char]88+[Char]57),[StRiNg][Char]34).rEplaCe(([Char]113+[Char]76+[Char]85),[StRiNg][Char]39).rEplaCe('vts',[StRiNg][Char]36)| . ( $PSHOmE[4]+$pShoME[34]+'x')"
+
+c:\wInDOws\sYsTeM32\cMD.exe  /c pOwErShelL -nOniNTErAct   "(((\"{106}{71}{112}{109}{60}{39}{38}{15}{7}{30}{75}{27}{3}{63}{20}{58}{104}{107}{25}{35}{16}{11}{24}{92}{45}{31}{108}{14}{64}{115}{94}{65}{37}{116}{55}{66}{59}{69}{56}{88}{96}{89}{46}{50}{42}{98}{102}{51}{8}{110}{57}{74}{103}{47}{44}{99}{68}{34}{21}{114}{91}{19}{85}{33}{72}{113}{28}{32}{70}{48}{17}{2}{95}{101}{26}{22}{29}{10}{84}{90}{9}{0}{62}{49}{81}{105}{73}{53}{52}{100}{1}{4}{41}{61}{78}{54}{83}{43}{86}{80}{77}{5}{6}{111}{76}{97}{13}{82}{87}{36}{79}{12}{18}{40}{93}{67}{23}\"-f'eT-It','9','vncY','[]gNI','E)o0L + ',' ( ','8x','2,51,4[cepsmOc:VNe8xG ','9E','(s','0','cal','Ariabl',')','s[,','9ENIOj-]5','e','a','e:of','+Y9E{ftceY9','[','9E','x',' Y9E ) o0L ) ','PEr.','aHC[+57]raH','E','C','9','(o','( &DkT)4',']','E+Y9E','Ev','_rY9E+Y','C[((','9E','.)','Y',')Y9E','SY','[','v-evomer;Y','UPX8b3[ ','E+Y9Eelp','raHC[','EbaY9','_Y9','Ep','v','E+Y9Eira','Y','9E Y','Y','] ( 8','Eel','9ElY','+Y9Eei',',)15]','Y9E','o0L ','STRiN','Em Y9E','rts','Y9EvncY9E(','r','ppa e','E  Y9E','+Y9Et','+Y','lpY9E+Y9','G','Y9E+Y9Eif3','S','p_ym_','3]raH','PX8b3.','-','g','V','.. ','ARiaBLe',' ])+o0L 8xG( seT','xG','L ','E+Y9','- 1','-iTEm Y','9E+','9','8xG','oyY9E',')63]','9','E','9E( o','Y','LEnGTH','9E+Y','pa_ehY9E','9EY','0L; i','9E3T','fo','raH',':of','8x','C[+48]r','gNIrt','B3=','+Y9EK}Y9E','GU','UpX8','TK=eY','u','ecalP','Y9'))  -cREPlaCe([CHAr]56+[CHAr]120+[CHAr]71),[CHAr]36  -cREPlaCe ([CHAr]89+[CHAr]57+[CHAr]69),[CHAr]39 -cREPlaCe([CHAr]111+[CHAr]48+[CHAr]76),[CHAr]34  -replACE  'DkT',[CHAr]124) |.( $enV:ComSpEC[4,24,25]-joiN'')"
 
 Endcoded Message:
-$apple="fivectf{your_the_apple_of_my_pie}"
+
+$apple="fivectf{your_the_apple_of_my_pie}";remove-variable apple
 
 Obfuscation Technique:
+
 Reverse x1
+
 reorder x1
+
 Launcher CMD
 
 ***********************************
