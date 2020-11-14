@@ -237,50 +237,70 @@ Launcher CMD
 
 ***********************************
 13.
-Flag: fivectf{dont_be_jerky_eat_some_turkey}
+Flag: 
+
+fivectf{dont_be_jerky_eat_some_turkey}
 
 Decoded Message Step by Step:
+
 Concate X1
- (('s'+'o0je'+'rky='+'JHIfi'+'vect'+'f{dont_be_jerky_e'+'a'+'t_so'+'me_tu'+'rkey}'+'JHI')  -repLAcE ([char]74+[char]72+[char]73),[char]34-repLAcE 'so0',[char]36)| & ( $env:cOmsPeC[4,15,25]-join'')
+
+. ( $enV:CoMSPEc[4,26,25]-JOiN'')( (('9'+'QEjerky=nG'+'rf'+'iv'+'ectf'+'{dont_be_je'+'rk'+'y_eat'+'_'+'some_'+'turkey'+'}nGr;'+'remove-variable j'+'erky')-replACe '9QE',[ChAr]36  -replACe  ([ChAr]110+[ChAr]71+[ChAr]114),[ChAr]34)) 
 
 reverse x1
-. ( $sHElLiD[1]+$ShElLid[13]+'x')(( [rEGEX]::MaTCHeS( " ))93]RAhc[]gnIRTs[,)67]RAhc[+65]RAhc[+021]RAhc[((ecAlPer.)421]RAhc[]gnIRTs[,'bh4'(ecAlPer.)'$','snG'(ecAlPer.)')L8'+'xL'+'8'+'xnioj-]5'+'2,5'+'1,4['+'CePs'+'mO'+'c:vnesnG ('+' '+'&'+' b'+'h'+'4)'+'63]rah'+'c[,L8x'+'0'+'o'+'s'+'L8x E'+'c'+'AL'+'pe'+'r-43]r'+'ahc[,)37]r'+'ahc'+'[+27]r'+'a'+'h'+'c[+'+'47]rah'+'c[( EcALper-'+'  )L'+'8xIHJL8'+'x+L8x}yek'+'rL8x+L8xut_'+'emL8x+L8x'+'o'+'s_t'+'L'+'8x+L'+'8'+'xaL8x+L8xe_ykrej_'+'eb'+'_'+'tnod{'+'fL'+'8x+L'+'8xtcevL8x+L8xif'+'I'+'H'+'JL8'+'x+'+'L8x=ykrL'+'8x+L'+'8xej'+'0oL8x+'+'L8'+'xsL8'+'x(('+' '(()''nioJ-'x'+]3,1[)eCNeREFErPesoBREV$]GNIrtS[( (&" , '.', 'RIgHt'+'tol'+'EF'+'t' )-JoIn'' )  )
-launcher CMD
+
+ ( [rEGex]::matChes(" ))93]raHC[,'0r8'  EcaLPerC-  63]raHC[,'CUQ' EcaLPerC-)' ))43]rAhC['+','+')4'+'11]rAhC'+'[+1'+'7]rAhC[+011]rAhC[(  e'+'CAlper'+'-  6'+'3]rAh'+'C'+'['+',0r8EQ'+'90r8 '+'eCA'+'lper-)0r8'+'ykr'+'e0r8+0r8j elbair'+'av-e'+'vom'+'er'+'0r8'+'+0r8;'+'rGn}0r8+0r'+'8yekru'+'t0r8+0r8_emos'+'0r8+0r8_0r8+0r'+'8t'+'ae_y0r'+'8'+'+'+'0r'+'8kr0r8+'+'0r8ej_e'+'b'+'_'+'tnod{0r8+0'+'r8'+'ftce0r8+0r8vi0'+'r8+0r'+'8fr0r8+0r8Gn'+'=ykre'+'jEQ'+'0r8+0'+'r890r'+'8(( ('+')0r80r8'+'NiOJ-]52,62,4[cEP'+'SMoC:VneCUQ ( '+'.'(( ( )''nIOj-]2,11,3[eman.)'*rDm*' VG((." ,'.' ,'RIgHTTOleFT' ) -JoIN'')| &( $sHeLliD[1]+$SHELLiD[13]+'X')
+
+launcher CMD Stdin
 
 Encoding:
-CMd.EXE  /cPoWerSHeLl   ". ( $sHElLiD[1]+$ShElLid[13]+'x')(( [rEGEX]::MaTCHeS( \" ))93]RAhc[]gnIRTs[,)67]RAhc[+65]RAhc[+021]RAhc[((ecAlPer.)421]RAhc[]gnIRTs[,'bh4'(ecAlPer.)'$','snG'(ecAlPer.)')L8'+'xL'+'8'+'xnioj-]5'+'2,5'+'1,4['+'CePs'+'mO'+'c:vnesnG ('+' '+'^^^&'+' b'+'h'+'4)'+'63]rah'+'c[,L8x'+'0'+'o'+'s'+'L8x E'+'c'+'AL'+'pe'+'r-43]r'+'ahc[,)37]r'+'ahc'+'[+27]r'+'a'+'h'+'c[+'+'47]rah'+'c[( EcALper-'+'  )L'+'8xIHJL8'+'x+L8x}yek'+'rL8x+L8xut_'+'emL8x+L8x'+'o'+'s_t'+'L'+'8x+L'+'8'+'xaL8x+L8xe_ykrej_'+'eb'+'_'+'tnod{'+'fL'+'8x+L'+'8xtcevL8x+L8xif'+'I'+'H'+'JL8'+'x+'+'L8x=ykrL'+'8x+L'+'8xej'+'0oL8x+'+'L8'+'xsL8'+'x(('+' '(()''nioJ-'x'+]3,1[)eCNeREFErPesoBREV$]GNIrtS[( (^^^&\" , '.', 'RIgHt'+'tol'+'EF'+'t' )-JoIn'' )  )"
+
+**CMd.EXE  /cPoWerSHeLl   ". ( $sHElLiD[1]+$ShElLid[13]+'x')(( [rEGEX]::MaTCHeS( \" ))93]RAhc[]gnIRTs[,)67]RAhc[+65]RAhc[+021]RAhc[((ecAlPer.)421]RAhc[]gnIRTs[,'bh4'(ecAlPer.)'$','snG'(ecAlPer.)')L8'+'xL'+'8'+'xnioj-]5'+'2,5'+'1,4['+'CePs'+'mO'+'c:vnesnG ('+' '+'^^^&'+' b'+'h'+'4)'+'63]rah'+'c[,L8x'+'0'+'o'+'s'+'L8x E'+'c'+'AL'+'pe'+'r-43]r'+'ahc[,)37]r'+'ahc'+'[+27]r'+'a'+'h'+'c[+'+'47]rah'+'c[( EcALper-'+'  )L'+'8xIHJL8'+'x+L8x}yek'+'rL8x+L8xut_'+'emL8x+L8x'+'o'+'s_t'+'L'+'8x+L'+'8'+'xaL8x+L8xe_ykrej_'+'eb'+'_'+'tnod{'+'fL'+'8x+L'+'8xtcevL8x+L8xif'+'I'+'H'+'JL8'+'x+'+'L8x=ykrL'+'8x+L'+'8xej'+'0oL8x+'+'L8'+'xsL8'+'x(('+' '(()''nioJ-'x'+]3,1[)eCNeREFErPesoBREV$]GNIrtS[( (^^^&\" , '.', 'RIgHt'+'tol'+'EF'+'t' )-JoIn'' )  )"**
 
 Endcoded Message:
-$jerky="fivectf{dont_be_jerky_eat_some_turkey}"
+
+$jerky="fivectf{dont_be_jerky_eat_some_turkey}";remove-variable jerky
 
 Obfuscation Technique:
+
 Concatenate x1
+
 reverse x1
-launcher CMD
+
+launcher CMD stdin
 
 ***********************************
 14.
-Flag: fivectf{bye_bye_birdie}
+Flag: 
+
+fivectf{bye_bye_birdie}
 
 Decoded Message Step by Step:
+
 reorder x1
- . ( $ShelLId[1]+$SheLLID[13]+'x') ( ((("{4}{0}{2}{7}{3}{1}{5}{6}" -f'2xbird','f{','ie','ivect','J','bye_bye_birdi','e}Wdx','=Wdxf')) -replacE 'J2x',[ChAr]36-cRepLacE'Wdx',[ChAr]34)) 
+
+ieX( ((("{14}{12}{2}{10}{9}{5}{4}{6}{7}{17}{16}{0}{1}{3}{8}{11}{15}{13}{18}"-f'ie}','D','=D1U','1U','_b','e','ye','_',';remove-va','{by','fivectf','riab','e','ird','iG3birdi','le b','d','bir','ie'))-REplace'D1U',[chAR]34-CrePLAce  'iG3',[chAR]36)) 
 
 compress x1
-IEx ( nEw-oBjEcT  IO.cOmpreSSiON.deflatEStreAM([SyStEM.io.MEmORYStrEAm] [SYstem.CONVeRt]::FrOMBaSe64sTRING('LUtNC4JAEP0riwSzYkZ+ZKcOUR2UPdWhg4ikO4uCB5EIY5j/3igd3nsz70PtlFabR4eDyW0ZVcFyG5NfyyipApjBl1xr7VHKtGeKmY5MCVPEdGDK2FOhg3hu+snCFhwJ9bjQB9u3aCFovlivkFIvP/LTzqInEQe+r8IJx+HV3hQUsQTlpTtPVZKF7R1HIz6s/b+dyuAH' ) ,[io.compREssioN.coMPrESSIONMOde]::dEcoMPRess) |FOrEAch {nEw-oBjEcT  SysTEM.IO.stREaMrEadeR($_,[sYStEM.TExt.ENcodinG]::AsCii ) } |FoReaCH{ $_.ReaDToENd() } ) 
 
-launcher cmd
+(nEW-oBJEcT SysteM.IO.sTReAMReadEr( ( nEW-oBJEcT SystEm.io.COMpRessiOn.deFLAtEsTreaM([iO.mEmORYstreAm] [CONvErt]::frOmbASe64sTRiNg( 'PY3dCoJAFIRfZfFmFRLaNDOiC8noposQgiBC1I60YBQSghzOuzcrFOzMfmdmfyxdfOX7vscmFjYLYSwzF14LL4WRJcIrRE5ANEY4Ek4BIINDBqNJxQtbbUn0TOfQNjdnbJOVNYyg0VkJbXp6vgYKhwoD1yO8tQM1nxbU2+p3wfZ354eoBllgR8p1LkXkOtJBEBb7d1c1pKdPr80jK25RHO56Oh2zhpRyT/yLJAjUFw==' ),[Io.cOmpreSsIOn.compRESSIOnMODE]::DECOmPress ) ), [TExT.eNcoDiNG]::ASCIi)).reAdToEND()| .((gET-VARiAblE '*mdr*').nAME[3,11,2]-Join'')
+
+launcher cmd -> Mshta
 
 Encoding:
-cMD.eXE /C POweRSHElL   "IEx ( nEw-oBjEcT  IO.cOmpreSSiON.deflatEStreAM([SyStEM.io.MEmORYStrEAm] [SYstem.CONVeRt]::FrOMBaSe64sTRING('LUtNC4JAEP0riwSzYkZ+ZKcOUR2UPdWhg4ikO4uCB5EIY5j/3igd3nsz70PtlFabR4eDyW0ZVcFyG5NfyyipApjBl1xr7VHKtGeKmY5MCVPEdGDK2FOhg3hu+snCFhwJ9bjQB9u3aCFovlivkFIvP/LTzqInEQe+r8IJx+HV3hQUsQTlpTtPVZKF7R1HIz6s/b+dyuAH' ) ,[io.compREssioN.coMPrESSIONMOde]::dEcoMPRess) |FOrEAch {nEw-oBjEcT  SysTEM.IO.stREaMrEadeR($_,[sYStEM.TExt.ENcodinG]::AsCii ) } |FoReaCH{ $_.ReaDToENd() } ) "
 
+CMD.ExE  /c"seT   mUac=(nEW-oBJEcT SysteM.IO.sTReAMReadEr( ( nEW-oBJEcT SystEm.io.COMpRessiOn.deFLAtEsTreaM([iO.mEmORYstreAm] [CONvErt]::frOmbASe64sTRiNg( 'PY3dCoJAFIRfZfFmFRLaNDOiC8noposQgiBC1I60YBQSghzOuzcrFOzMfmdmfyxdfOX7vscmFjYLYSwzF14LL4WRJcIrRE5ANEY4Ek4BIINDBqNJxQtbbUn0TOfQNjdnbJOVNYyg0VkJbXp6vgYKhwoD1yO8tQM1nxbU2+p3wfZ354eoBllgR8p1LkXkOtJBEBb7d1c1pKdPr80jK25RHO56Oh2zhpRyT/yLJAjUFw==' ),[Io.cOmpreSsIOn.compRESSIOnMODE]::DECOmPress ) ), [TExT.eNcoDiNG]::ASCIi)).reAdToEND()^| .((gET-VARiAblE '*mdr*').nAME[3,11,2]-Join'')&&C:\winDOWS\SYSTEM32\mSHta.Exe  VBSCRipT:CreATEObJECT("WScrIPt.SheLL").RUN("poweRsheLl -ExECutIOnPolIc  BYPass  -nopR       (.(  '{0}{1}'-f'Di','r' ) ('{0}{1}'-f 'EnV:MUA','C')).'valuE' ^|^&  (   ( [STRing]${VerBoseprefERENCE}  )[1,3]  + 'X'-JoIn''  )",1,TrUE)(WINDow.ClOSe)"
 Endcoded Message:
-$birdie="fivectf{bye_bye_birdie}"
+
+$birdie="fivectf{bye_bye_birdie}";remove-variable birdie
 
 Obfuscation Technique:
+
 reorder x1
+
 compress x1
-launcher CMD
+
+launcher CMD - Mshta
 
 ***********************************
 Hard 3+
