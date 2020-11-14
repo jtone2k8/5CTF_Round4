@@ -171,13 +171,16 @@ Flag: fivectf{i_yam_what_i_yam}
 Question:
 
 Encoding:
-'				 							  		 			 		  										 								  		 	 										  		 	 										  		 			 		  							 		  				 					  		 	 			  		 	 						  		 		 									  		 	 		  										 										  		 		 							  		 	 			  		 			 				  		 	 						  										 						  		 			 		  										 								  		 	 										  										 						  		 		 										  		 	 					  										 								  		 		 							  										 						  		 	 						  										 						  		 			 		  										 								  		 	 										  		 			 						  				 					' | %{$riBwML=$_ -ISPliT '  ' | % {' '; $_ -ISPliT ' ' | % {$_.lengTh - 1 } } ; &( ''.norMALiZe.TostRiNg()[55,41,46]-jOin'') ( -jOIn (((-jOIn($riBwML[0..($riBwML.lengTh-1)]) ).triM('  ').SplIt(' ' ) |%{( [CHAR] [int] $_) })) ) }
+
+&( $env:cOMSpec[4,24,25]-JOiN'') ( ([RuNtimE.InTeropsERvICEs.MArsHaL]::PTrtostRiNGauto([rUNtimE.INtEROPSERViCes.marShaL]::SeCUrEstRiNGTOBSTr( $('76492d1116743f0423413b16050a5345MgB8AFcAZgArAGkATgBMAGYAdAB2AFUAdQBWAFQANAAxAEwANgByAFoARwB6AHcAPQA9AHwAYgBiAGMAMgBlADYAYwAyADIAYgA0ADYAYwA4ADcAMQAzADUANQA5ADkAMAA4ADgAZQA3ADgAOAAxAGEAYQA1ADYAMABiADEAMwAwAGIAYwAyAGQAYQAxADQAZQA4ADMAMQAxADUAYwA1ADUAOQA1AGEAOQBmADgANwA1AGMAZgA5ADYAMwA5ADAAOQA3ADEAZABlAGMAZAAyADMAYwAxADEAYQBhAGUAMAA3ADIAOABmAGMAZABkAGIAMABiAGEANgA4ADEANwBhADQANABiAGEAMQAwAGYAMgBiAGUAZQA0AGQANwBlADQAYQAxADQAMgBiADEANQAxAGQAOQA2ADMAMQA1ADgANgBkAGIAZAA5AGQANQAyADUAZgA1ADAANgAyADMANQA1AGEAYgBmADUAMAA1ADEAOAA0AGQAMwBkAGIAMABkADQAOQA0ADUAMwA0AGMAZQBlAGUAMAAzAGIANgBiAGIAYQBjADcANwAwADkAMQBlADQAZQBkAGQANgBjADAANgBjAGEANAA2ADUAYQA0ADIAZAA5ADcAZQA2ADcAYwAxADkANwA5ADkANABmAGUAYgAwADUANgAyADAAMgA3ADAANgBmADIAYgAxADgAYgBmADMAZAA0ADMAYgBiADEAZgBiADgAOQA3AGEAZQBjAGMAYwA2ADAAYQA=' | ConVerttO-secUReStRIng -K 105,96,78,5,118,178,158,144,131,126,145,80,44,50,161,3)) )) )
 
 Endcoded Message:
-$yammy="fivectf{i_yam_what_i_yam}"
+
+$yammy="fivectf{i_yam_what_i_yam}";remove-variable yammy
 
 Obfuscation Technique:
-encoding whitespace x1
+
+encoding secure-string x1
 
 ***********************************
 11.
@@ -186,12 +189,15 @@ Flag: fivectf{eat_drink_and_cranberry}
 Question:
 
 Encoding:
- ( NEw-obJeCt sYsTem.Io.ComPResSIOn.DeFlAtestreAm([Io.mEmORysTrEAM] [CONVeRt]::FrOMbase64sTrinG( 'U0kuSsxLSi0qqrRVSsssS00uSatOTSyJTynKzMuOT8xLiYcrqFUCAA=='), [SYsTem.IO.ComPressION.COMPReSSionmODe]::deCOMPRESs ) |% {NEw-obJeCt SYSTEm.IO.stReaMrEADER($_, [SystEM.texT.eNCODinG]::asCii )} ).reAdToEnD() | .((gv '*mDR*').Name[3,11,2]-Join'')
+
+ (New-ObJeCT io.cOMPressiON.DefLATEStreAM([sysTEM.IO.mEMORyStrEAm][cONVerT]::frOMbaSe64sTrinG('U0kuSsxLSi0qqrRVSsssS00uSatOTSyJTynKzMuOT8xLiYcrqFWyVihKzc0vS9UtSyzKTEzKSVWASwIA') ,[IO.COMprEssIoN.cOMPreSSIONMODE]::deCOmPREsS )|FoReaCH-ObJeCt{New-ObJeCT  SYStEm.IO.StreaMReaDER( $_, [sYsteM.TeXT.EnCoDIng]::ASciI)} ).rEaDtOENd() |& ( $shElLId[1]+$SHELLiD[13]+'X')
 
 Endcoded Message:
-$cranberry="fivectf{eat_drink_and_cranberry}"
+
+$cranberry="fivectf{eat_drink_and_cranberry}"; remove-variable cranberry
 
 Obfuscation Technique:
+
 compress x1
 
 ***********************************
