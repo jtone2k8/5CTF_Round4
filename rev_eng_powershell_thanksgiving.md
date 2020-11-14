@@ -306,32 +306,48 @@ launcher CMD - Mshta
 Hard 3+
 ***********************************
 15.
+
 Flag: fivectf{poultry_fiction}
 
 Decoded Message Step by Step:
+
 AST\All 
-Set-Variable -Name fiction -Value ("fivectf{poultry_fiction}")
+
+Set-Variable -Name fiction -Value ("fivectf{poultry_fiction}");remove-variable fiction
 
 Token ALL
-.("{3}{1}{0}{2}" -f 'r','t-Va','iable','Se') -Name ("{2}{1}{0}"-f 'on','cti','fi') -Value ("fivectf{poultry_fiction}")
+
+&("{0}{2}{1}" -f'Set-Variab','e','l') -Name ("{1}{0}"-f'iction','f') -Value ("fivectf{poultry_fiction}");.("{2}{0}{1}"-f'i','able','remove-var') ("{1}{0}" -f 'tion','fic')
 
 Compress
- (nEW-OBJECT  io.COMPrEssiOn.dEflatEStreaM([iO.mEMORysTream] [SysteM.coNVeRt]::fRoMbAse64STRINg( '09NQqjaurTasrTaorTaqVVLQTVNQL1LXUS/RDUsEUpmJSTmpQDo4VV1TQdcvMTdVAajDCKpDCaQ6Pw8on1ySCSTTMkGqwhJzSkHK0jLLUpNL0qoL8ktzSooq49Mygary82qVNAE=' ) ,[IO.cOMPrESsiON.coMPressioNmODE]::decomprESS) | foREAcH {nEW-OBJECT io.STReAMREaDEr($_ , [sYSteM.TEXt.enCODinG]::AScIi) }|FOrEacH{ $_.rEADtOEND( ) } )| & ( $pShOME[21]+$PSHoMe[30]+'X')
 
-Launcher cmd
+InVoke-EXPRESsion ( new-obJecT io.COMPrEsSioN.DEfLAtestReAM([iO.mEmorYsTREaM][convERT]::fROmBASE64sTriNG('PY5BCgIxDEWvUrowFqw4s/UOboTZSqakUOhYKZ2ClNzdBNFFVv/9/3I42nHhMfOY2Bof4U7NL1gTrnACksvgjL/hRkbQiYW2gqXQUnlKHDVeMO+ax9QptDheZc+tvh/xi7F117O0Z22rSAeki2tWQ6WtdPIdq2z9JfKMgZ8kBXAf' ), [Io.CompressIOn.COMPrESSiONmoDE]::DEcomPrESS ) | % {new-obJecT  IO.sTreAMReADER($_, [sySTEm.tEXt.EnCODING]::ASCiI )}).ReaDtoenD( ) 
 
+Reverse x2
+
+Set-VarIABLe  gdkT  ([cHaR[]]") )93]RaHC[,'0Tf'EcaLPer-  421]RaHC[,'cAf'EcaLPer-  63]RaHC[,)58]RaHC[+38]RaHC[+211]RaHC[( EcaLPer- )' ) '+'(Dneo'+'tDaeR'+'.)})'+' I'+'iC'+'SA::]GN'+'IDO'+'Cn'+'E.tX'+'E'+'t'+'.'+'mETSys'+'[ ,_'+'USp'+'('+'REDA'+'e'+'RMA'+'erTs.OI  TceJbo'+'-w'+'en{ % c'+'Af ) '+'SSEr'+'P'+'moc'+'ED::]E'+'Dom'+'NOiSSE'+'rPMO'+'C.nOIss'+'er'+'pm'+'oC.oI[ '+',)'+' 0'+'TffAXBk8Z'+'gMKfJ9'+'z2'+'qdIPdtW'+'6'+'QWt2ikeAS'+'r22Z0O711F7i'+'x/hv'+'t+c'+'ZehDtp'+'Q'+'9'+'xa+O'+'Me'+'VDH'+'Kl'+'nUQXq'+'g2W'+'YiQbkRh/Ljgv'+'skCA'+'nrT'+'g1LN7'+'U4'+'foB2YOfMhH'+'n2'+'4I3/9/vV'+'FF'+'NBd'+'zNl'+'C2'+'ZK'+'Yh'+'OUkaq'+'SZT'+'obOU/s4wqFworU'+'vW'+'ED'+'xIg'+'C'+'B'+'5'+'Y'+'P0Tf('+'GNir'+'Ts'+'4'+'6ES'+'AB'+'mO'+'Rf'+':'+':]T'+'REvn'+'o'+'c[]MaE'+'RT'+'sYromEm'+'.Oi[('+'M'+'A'+'eRtse'+'t'+'A'+'LfE'+'D.'+'No'+'iSsErPMOC.oi Tce'+'Jbo-'+'wen'+' ( '+'noisSERPXE'+'-e'+'ko'+'VnI'((( )'X'+]31[diLlEhS$+]1[DilLeHs$ ( ."); [ArRAY]::reVErse(( GeT-VariABle  GDkt  -vaLUE) ) ;[sTriNG]::JOiN('',( GeT-VariABle  GDkt  -vaLUE)) | . ( $PshoME[4]+$psHoME[30]+'X')
+
+$5H6nu =  " ) )421]rAhc[,)88]rAhc[+001]rAhc[+58]rAhc[(  eCAlper-63]rAhc[,'XuR' eCAlper-93]rAhc[,)08]rAhc[+07]rAhc[+411]rAhc[(  ecalPerC-43]rAhc[,)37]rAhc[+45]rAhc[+221]rAhc[(  ecalPerC-)')PFrXPFr+]03[EMoHspXuR+]4[EMoh'+'sPXuR ( . XdU )'+')EULav-  tkDG  elBAiraV-TeG (,PFrPFr(NiOJ::]GNirTs[; ) )EULav- '+' tkDG  elBAiraV-TeG ((esrEVer::]YARrA[ ;)I6z. ( XuRsHeLliD[1]+XuRShElLid[13]+PFrXPFr) ((('+'PFrInVPF'+'r+PF'+'rokPFr+PFre-PFr+PFrEXPRESsionPFr+PFr ( PFr+PFrn'+'ewPFr+PFr-ob'+'JPFr+PFrecT io.COMPrEsSiPFr+PFroNPFr+PFr.DPFr+PFrEfLPFr+PFr'+'APFr+PFrtPFr+PFrestRePFr+PFrAPFr+PFrMPFr+PFr([iO.PFr+PFrm'+'EmorYsPFr+PFrTRPFr+PFrEaM][cPFr+PFroPFr+PFrnvERPFr+PFrT]:PFr+PFr:PFr+PFrfRPFr+PFrOmPFr+PFrBAPFr+PFrSE6PFr+PFr4PFr+PFrsTPFr+PFrriNGPFr+P'+'Fr(fT0'+'PPFr+PFrYPFr+PFr5PFr+PFrBPF'+'r+PFrCPF'+'r+P'+'FrgIxPFr+PFrDEPFr+PFrWvPFr+'+'PFrUrowFqw4s/UOboPFr+PFrTZSPFr+PFrqakUOPFr+PFrhYPFr+PFrKZPFr+PFr2CPFr'+'+PFrlNzPFr+PFrdBNPFr+PFrFFPFr+PFrVv/9/3I4PFr+PFr2nPFr+PFrHhMfOY2BofPFr+PFr4UPFr+PFr7NL1gPFr+PFrTrnPFr+PFrACksPFr+PFrvgjL/hRkbQiYPFr+PFrW2gPFr+PFrqXQUnPFr+PFr'+'lKPFr+PFrHDVPFr+PFreMPFr+PFrO+axPFr+PFr9PFr+PFrQPFr'+'+PFrp'+'tDheZPFr+PFrc+tPFr+PFr'+'vh/xPFr+PFri7'+'F117O0Z22rPFr+PFrSAeki2tWQPFr+PFr6PFr+PFrWtdPIdqPFr+PFr2zPFr+PFr9JfKMgPFr+PFrZ8'+'kBXAffTPFr+PFr0 PFr+PFr),PFr+PFr [Io.CoPFr+PFrmpPFr+PFrrePFr+PFrssIOn.CPFr+PFrOMPrPFr+PFrESSiONPFr+PFrmoDPFr+PFrE]::DEPFr+PFrcomPFr+PFrPPFr+PFrrESS'+'PFr+PFr ) fAPFr+PFrc % {nePFr+PFrw-PFr+P'+'FrobJecT  IO.sTrePFr+'+'PFrAMRPFr+PFrePFr+PFrADERPFr+PFr(PFr+PFrpSUPFr+PFr_, [PFr+PFrsySTEmPFr+PFr.PF'+'r+PFrtPFr+PFrEPFr+PFrXt.EPFr+PFrnCPFr+PFrODIPFr+PFrNG]::A'+'SPFr+PFrCiPFr+PFrI PFr+PFr)}).PFr+PFrReaDtPFr+PFroenD(PFr+PFr ) PFr) -rePLacE ([CHaR]112+[CHaR]83'+'+[CHaR]85),[CHaR]36'+'  -rePLacEPFrfAcPFr,[CHaR]124  -rePLacEPFrfT0PFr,[CHaR]39) )I6z]'+'][RaHc[(  Tkdg  eLBAIraV-teS'((()'x'+]03[EMoHsP$+]12[EMOhSp$ (&  " ;  &( $pshOmE[4]+$PsHOMe[34]+'x') ( [sTRinG]::joIN('' , (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe[- 1..- ( (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe.LengTh) ]) ) 
+
+Launcher cmd - rundll
 
 Encoding:
-c:\wINdoWs\SystEm32\Cmd.Exe  /c   POWerSHeLL    " (nEW-OBJECT  io.COMPrEssiOn.dEflatEStreaM([iO.mEMORysTream] [SysteM.coNVeRt]::fRoMbAse64STRINg( '09NQqjaurTasrTaorTaqVVLQTVNQL1LXUS/RDUsEUpmJSTmpQDo4VV1TQdcvMTdVAajDCKpDCaQ6Pw8on1ySCSTTMkGqwhJzSkHK0jLLUpNL0qoL8ktzSooq49Mygary82qVNAE=' ) ,[IO.cOMPrESsiON.coMPressioNmODE]::decomprESS) | foREAcH {nEW-OBJECT io.STReAMREaDEr($_ , [sYSteM.TEXt.enCODinG]::AScIi) }|FOrEacH{ $_.rEADtOEND( ) } )| & ( $pShOME[21]+$PSHoMe[30]+'X')"
+
+C:\wINdOWs\SysTem32\cmd   /C  "SET   inzHb=$5H6nu =  " ) )421]rAhc[,)88]rAhc[+001]rAhc[+58]rAhc[(  eCAlper-63]rAhc[,'XuR' eCAlper-93]rAhc[,)08]rAhc[+07]rAhc[+411]rAhc[(  ecalPerC-43]rAhc[,)37]rAhc[+45]rAhc[+221]rAhc[(  ecalPerC-)')PFrXPFr+]03[EMoHspXuR+]4[EMoh'+'sPXuR ( . XdU )'+')EULav-  tkDG  elBAiraV-TeG (,PFrPFr(NiOJ::]GNirTs[; ) )EULav- '+' tkDG  elBAiraV-TeG ((esrEVer::]YARrA[ ;)I6z. ( XuRsHeLliD[1]+XuRShElLid[13]+PFrXPFr) ((('+'PFrInVPF'+'r+PF'+'rokPFr+PFre-PFr+PFrEXPRESsionPFr+PFr ( PFr+PFrn'+'ewPFr+PFr-ob'+'JPFr+PFrecT io.COMPrEsSiPFr+PFroNPFr+PFr.DPFr+PFrEfLPFr+PFr'+'APFr+PFrtPFr+PFrestRePFr+PFrAPFr+PFrMPFr+PFr([iO.PFr+PFrm'+'EmorYsPFr+PFrTRPFr+PFrEaM][cPFr+PFroPFr+PFrnvERPFr+PFrT]:PFr+PFr:PFr+PFrfRPFr+PFrOmPFr+PFrBAPFr+PFrSE6PFr+PFr4PFr+PFrsTPFr+PFrriNGPFr+P'+'Fr(fT0'+'PPFr+PFrYPFr+PFr5PFr+PFrBPF'+'r+PFrCPF'+'r+P'+'FrgIxPFr+PFrDEPFr+PFrWvPFr+'+'PFrUrowFqw4s/UOboPFr+PFrTZSPFr+PFrqakUOPFr+PFrhYPFr+PFrKZPFr+PFr2CPFr'+'+PFrlNzPFr+PFrdBNPFr+PFrFFPFr+PFrVv/9/3I4PFr+PFr2nPFr+PFrHhMfOY2BofPFr+PFr4UPFr+PFr7NL1gPFr+PFrTrnPFr+PFrACksPFr+PFrvgjL/hRkbQiYPFr+PFrW2gPFr+PFrqXQUnPFr+PFr'+'lKPFr+PFrHDVPFr+PFreMPFr+PFrO+axPFr+PFr9PFr+PFrQPFr'+'+PFrp'+'tDheZPFr+PFrc+tPFr+PFr'+'vh/xPFr+PFri7'+'F117O0Z22rPFr+PFrSAeki2tWQPFr+PFr6PFr+PFrWtdPIdqPFr+PFr2zPFr+PFr9JfKMgPFr+PFrZ8'+'kBXAffTPFr+PFr0 PFr+PFr),PFr+PFr [Io.CoPFr+PFrmpPFr+PFrrePFr+PFrssIOn.CPFr+PFrOMPrPFr+PFrESSiONPFr+PFrmoDPFr+PFrE]::DEPFr+PFrcomPFr+PFrPPFr+PFrrESS'+'PFr+PFr ) fAPFr+PFrc % {nePFr+PFrw-PFr+P'+'FrobJecT  IO.sTrePFr+'+'PFrAMRPFr+PFrePFr+PFrADERPFr+PFr(PFr+PFrpSUPFr+PFr_, [PFr+PFrsySTEmPFr+PFr.PF'+'r+PFrtPFr+PFrEPFr+PFrXt.EPFr+PFrnCPFr+PFrODIPFr+PFrNG]::A'+'SPFr+PFrCiPFr+PFrI PFr+PFr)}).PFr+PFrReaDtPFr+PFroenD(PFr+PFr ) PFr) -rePLacE ([CHaR]112+[CHaR]83'+'+[CHaR]85),[CHaR]36'+'  -rePLacEPFrfAcPFr,[CHaR]124  -rePLacEPFrfT0PFr,[CHaR]39) )I6z]'+'][RaHc[(  Tkdg  eLBAIraV-teS'((()'x'+]03[EMoHsP$+]12[EMOhSp$ (^&  " ;  ^&( $pshOmE[4]+$PsHOMe[34]+'x') ( [sTRinG]::joIN('' , (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe[- 1..- ( (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe.LengTh) ]) )&&RUnDLL32.EXE SHELL32.DLL, ,  ShellExec_RunDLL "pOWeRsHElL"    " seT  (  'RlP' + '9y') ( [TyPE]( '{0}{2}{1}{3}'-F'E','R','Nvi','ONmENt' ) )    ;  ${exEcuTioNCoNtExT}.'invOkECoMMaND'.'inVOkeSCRIPt'((  ${Rlp9Y}::('{4}{0}{2}{3}{1}' -f'EnV','e','IrOnm','EnTVariABl','get'  ).Invoke(  ('{0}{1}'-f'I','nZhB'),('{2}{1}{0}' -f 's','ROceS','P' )  )  ))"
 
 Endcoded Message:
-$fiction="fivectf{poultry_fiction}"
+
+$fiction="fivectf{poultry_fiction}";remove-variable fiction
 
 Obfuscation Technique:
+
 AST ALL x1
+
 Token All x1
+
 compress x1
-launcher CMD
+
+launcher CMD - rundll
 
 ***********************************
 16.
