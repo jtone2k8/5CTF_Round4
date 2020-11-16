@@ -4,6 +4,7 @@ All of these were created with Invoke-obfuscation
 Easy - 1 item only
 ***********************************
 1.
+
 Flag: fivectf{turkeys_go_gobble_gobble}
 
 Question:
@@ -22,6 +23,7 @@ String Concatenate x1
 
 ***********************************
 2.
+
 Flag: fivectf{lets_get_basted}
 
 Question:
@@ -39,115 +41,9 @@ Obfuscation Technique:
 Reorder x1
 
 ***********************************
-3.
-Flag: fivectf{oh_my_gourd}
 
-Question:
+3. 
 
-Encoding:
-
-$BRS69A =  [chAR[] ]")'x'+]03[emOhSp$+]12[emOhsP$ (.|)63]rAHc[]gNirts[,)611]rAHc[+86]rAHc[+511]rAHc[((EcALpER.)43]rAHc[]gNirts[,'5xn'(EcALpER.)'5xn}'+'d'+'r'+'uo'+'g_y'+'m_h'+'o'+'{ftc'+'evif5x'+'n='+'druo'+'gtDs'( " ; [ARraY]::RevErsE( $brS69A ) ; .( $SHELLId[1]+$SHEllid[13]+'X') (" $( sEt-ITem  'vArIABle:ofs'  '' )" + [StRINg] ( $brS69A ) +"$( sET-VAriAblE  'OFS' ' ')" )
-
-Endcoded Message:
-
-$gourd="fivectf{oh_my_gourd}"
-
-Obfuscation Technique:
-
-reverse x1
-
-***********************************
-4.
-Flag: fivectf{silence_of_the_yams}
-
-Question:
-
-Encoding:
-
- -JOIn ( (36,121, 97, 109, 61 , 34 , 102 ,105,118 , 101,99, 116, 102, 123 ,115, 105 , 108,101,110,99 ,101, 95,111 , 102 ,95 ,116 ,104 ,101 ,95, 121, 97 , 109, 115, 125, 34 )| foREacH{( [chaR] [iNT]$_) })|&((vAriAblE '*MdR*').nAMe[3,11,2]-joIN'')
-
-Endcoded Message:
-
-$yam="fivectf{silence_of_the_yams}"
-
-Obfuscation Technique:
-
-Encoding ASCII x1
-
-***********************************
-5.
-Flag: fivectf{gobble_til_you_wobble}
-
-Question:
-
-Encoding:
-
- "$( seT-item  'vARIABlE:Ofs'  '' )" + [strING]('24x77W6f}62o62o6c{65;3d{22;66o69;76x65g63}74;66g7b_67x6fW62;62{6c;65o5fx74o69x6c;5fx79o6fW75}5f_77}6fx62o62{6co65g7d{22;3b;52x65_6d_6fx76W65}2dx56x61W72g69W61}62_6c{65}20_77o6fg62;62{6c_65'.sPlit('_{xW;}go') | FOReAcH-ObJECT { ( [cHar]([coNvErT]::TOiNT16(($_.tOsTrInG() ),16))) } )+"$( sEt-VAriaBle  'Ofs' ' ') " | Iex
-
-Endcoded Message:
-
-$wobble="fivectf{gobble_til_you_wobble}";Remove-Variable wobble
-
-Obfuscation Technique:
-
-Encoding Hex x1
-
-***********************************
-6.
-Flag: fivectf{this_is_how_i_roll}
-
-Question:
-
-Encoding:
-
-&( $PshoMe[4]+$PshOmE[34]+'X')( -JOIN('44E162L157s154B154;75N42B146s151t166;145E143E164B146t173N164t150B151k163s137k151N163B137t150;157s167L137N151N137t162t157i154E154i175k42i73t122f145N155t157L166E145L55i126N141s162B151t141N142i154;145s40N162;157N154;154'.SPLIT(';NkfLEsiBt' ) | forEach {([ChAr]( [coNVert]::toINt16(($_.toStRIng() ),8 ))) }) ) 
-
-Endcoded Message:
-
-$roll="fivectf{this_is_how_i_roll}";Remove-Variable roll
-
-Obfuscation Technique:
-
-encoding octal x1
-
-***********************************
-7.
-Flag: fivectf{off_the_rails_on_gray_train}
-
-Question:
-
-Encoding:
-
-invOKE-exprEsSioN (" $( sEt-IteM  'vAriABLe:OFS'  '') "+ [STRInG]( ( 100100 , 1100111 ,1110010, 1100001 , 1110110 , 1111001,111101, 100010 ,1100110 ,1101001 , 1110110, 1100101 , 1100011, 1110100, 1100110, 1111011 , 1101111 ,1100110, 1100110 ,1011111, 1110100, 1101000, 1100101 ,1011111 , 1110010,1100001 ,1101001 , 1101100, 1110011 ,1011111 , 1101111 ,1101110 , 1011111 , 1100111 ,1110010 , 1100001,1111001 ,1011111 ,1110100, 1110010 , 1100001 ,1101001 , 1101110 ,1111101,100010 , 111011 , 1110010 ,1100101 , 1101101, 1101111,1110110 , 1100101 ,101101,1110110, 1100001, 1110010 ,1101001, 1100001 , 1100010 , 1101100, 1100101,100000 , 1100111 ,1110010, 1100001,1110110, 1111001 ) |foREAch{ ( [CHaR] ([ConVErT]::Toint16(( $_.TOStRiNG() ) ,2) )) } )+" $( sEt-ItEm 'VaRiable:OFs' ' ') ")
-
-Endcoded Message:
-
-$gravy="fivectf{off_the_rails_on_gray_train}";Remove-Variable gravy
-
-Obfuscation Technique:
-
-encoding binary x1
-
-***********************************
-8.
-Flag: fivectf{feast_mode}
-
-Question:
-
-Encoding:
-
-[sTrIng]::jOin( '' , ('127}61,62@58@40,47}102}121Q61,50t45&62,56}47<61t32X61@62,58<40v47@4G54v52v63X62<38t121}96}9X62&54}52G45G62Q118&13Q58,41G50X58v57X55<62&123G61v62&58<40v47'.SpLiT('XG,&}v<@tQ') |% { [cHAR] ( $_-bxOr'0x5b') }) )|.( $Env:COmSPEC[4,26,25]-joIN'')
-
-Endcoded Message:
-
-$feast="fivectf{feast_mode}";Remove-Variable feast
-
-Obfuscation Technique:
-
-encoding BXOR x1
-
-***********************************
-9. 
 Flag: fivectf{im_stuffed}
 
 Question:
@@ -165,7 +61,9 @@ Obfuscation Technique:
 encoding special characters x1
 
 ***********************************
-10.
+
+4.
+
 Flag: fivectf{i_yam_what_i_yam}
 
 Question:
@@ -182,28 +80,12 @@ Obfuscation Technique:
 
 encoding secure-string x1
 
-***********************************
-11.
-Flag: fivectf{eat_drink_and_cranberry}
-
-Question:
-
-Encoding:
-
- (New-ObJeCT io.cOMPressiON.DefLATEStreAM([sysTEM.IO.mEMORyStrEAm][cONVerT]::frOMbaSe64sTrinG('U0kuSsxLSi0qqrRVSsssS00uSatOTSyJTynKzMuOT8xLiYcrqFWyVihKzc0vS9UtSyzKTEzKSVWASwIA') ,[IO.COMprEssIoN.cOMPreSSIONMODE]::deCOmPREsS )|FoReaCH-ObJeCt{New-ObJeCT  SYStEm.IO.StreaMReaDER( $_, [sYsteM.TeXT.EnCoDIng]::ASciI)} ).rEaDtOENd() |& ( $shElLId[1]+$SHELLiD[13]+'X')
-
-Endcoded Message:
-
-$cranberry="fivectf{eat_drink_and_cranberry}"; remove-variable cranberry
-
-Obfuscation Technique:
-
-compress x1
 
 ***********************************
 Medium 2x items
 ***********************************
-12.
+
+5.
 
 Flag: fivectf{your_the_apple_of_my_pie}
 
@@ -236,7 +118,9 @@ reorder x1
 Launcher CMD
 
 ***********************************
-13.
+
+6.
+
 Flag: 
 
 fivectf{dont_be_jerky_eat_some_turkey}
@@ -270,39 +154,6 @@ Concatenate x1
 reverse x1
 
 launcher CMD stdin
-
-***********************************
-14.
-Flag: 
-
-fivectf{bye_bye_birdie}
-
-Decoded Message Step by Step:
-
-reorder x1
-
-ieX( ((("{14}{12}{2}{10}{9}{5}{4}{6}{7}{17}{16}{0}{1}{3}{8}{11}{15}{13}{18}"-f'ie}','D','=D1U','1U','_b','e','ye','_',';remove-va','{by','fivectf','riab','e','ird','iG3birdi','le b','d','bir','ie'))-REplace'D1U',[chAR]34-CrePLAce  'iG3',[chAR]36)) 
-
-compress x1
-
-(nEW-oBJEcT SysteM.IO.sTReAMReadEr( ( nEW-oBJEcT SystEm.io.COMpRessiOn.deFLAtEsTreaM([iO.mEmORYstreAm] [CONvErt]::frOmbASe64sTRiNg( 'PY3dCoJAFIRfZfFmFRLaNDOiC8noposQgiBC1I60YBQSghzOuzcrFOzMfmdmfyxdfOX7vscmFjYLYSwzF14LL4WRJcIrRE5ANEY4Ek4BIINDBqNJxQtbbUn0TOfQNjdnbJOVNYyg0VkJbXp6vgYKhwoD1yO8tQM1nxbU2+p3wfZ354eoBllgR8p1LkXkOtJBEBb7d1c1pKdPr80jK25RHO56Oh2zhpRyT/yLJAjUFw==' ),[Io.cOmpreSsIOn.compRESSIOnMODE]::DECOmPress ) ), [TExT.eNcoDiNG]::ASCIi)).reAdToEND()| .((gET-VARiAblE '*mdr*').nAME[3,11,2]-Join'')
-
-launcher cmd -> Mshta
-
-Encoding:
-
-CMD.ExE  /c"seT   mUac=(nEW-oBJEcT SysteM.IO.sTReAMReadEr( ( nEW-oBJEcT SystEm.io.COMpRessiOn.deFLAtEsTreaM([iO.mEmORYstreAm] [CONvErt]::frOmbASe64sTRiNg( 'PY3dCoJAFIRfZfFmFRLaNDOiC8noposQgiBC1I60YBQSghzOuzcrFOzMfmdmfyxdfOX7vscmFjYLYSwzF14LL4WRJcIrRE5ANEY4Ek4BIINDBqNJxQtbbUn0TOfQNjdnbJOVNYyg0VkJbXp6vgYKhwoD1yO8tQM1nxbU2+p3wfZ354eoBllgR8p1LkXkOtJBEBb7d1c1pKdPr80jK25RHO56Oh2zhpRyT/yLJAjUFw==' ),[Io.cOmpreSsIOn.compRESSIOnMODE]::DECOmPress ) ), [TExT.eNcoDiNG]::ASCIi)).reAdToEND()^| .((gET-VARiAblE '*mdr*').nAME[3,11,2]-Join'')&&C:\winDOWS\SYSTEM32\mSHta.Exe  VBSCRipT:CreATEObJECT("WScrIPt.SheLL").RUN("poweRsheLl -ExECutIOnPolIc  BYPass  -nopR       (.(  '{0}{1}'-f'Di','r' ) ('{0}{1}'-f 'EnV:MUA','C')).'valuE' ^|^&  (   ( [STRing]${VerBoseprefERENCE}  )[1,3]  + 'X'-JoIn''  )",1,TrUE)(WINDow.ClOSe)"
-Endcoded Message:
-
-$birdie="fivectf{bye_bye_birdie}";remove-variable birdie
-
-Obfuscation Technique:
-
-reorder x1
-
-compress x1
-
-launcher CMD - Mshta
 
 ***********************************
 Hard 3+
