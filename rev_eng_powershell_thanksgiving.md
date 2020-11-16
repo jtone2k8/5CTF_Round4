@@ -77,9 +77,7 @@ Question:
 Encoding:
 
 `
-
 &( $env:cOMSpec[4,24,25]-JOiN'') ( ([RuNtimE.InTeropsERvICEs.MArsHaL]::PTrtostRiNGauto([rUNtimE.INtEROPSERViCes.marShaL]::SeCUrEstRiNGTOBSTr( $('76492d1116743f0423413b16050a5345MgB8AFcAZgArAGkATgBMAGYAdAB2AFUAdQBWAFQANAAxAEwANgByAFoARwB6AHcAPQA9AHwAYgBiAGMAMgBlADYAYwAyADIAYgA0ADYAYwA4ADcAMQAzADUANQA5ADkAMAA4ADgAZQA3ADgAOAAxAGEAYQA1ADYAMABiADEAMwAwAGIAYwAyAGQAYQAxADQAZQA4ADMAMQAxADUAYwA1ADUAOQA1AGEAOQBmADgANwA1AGMAZgA5ADYAMwA5ADAAOQA3ADEAZABlAGMAZAAyADMAYwAxADEAYQBhAGUAMAA3ADIAOABmAGMAZABkAGIAMABiAGEANgA4ADEANwBhADQANABiAGEAMQAwAGYAMgBiAGUAZQA0AGQANwBlADQAYQAxADQAMgBiADEANQAxAGQAOQA2ADMAMQA1ADgANgBkAGIAZAA5AGQANQAyADUAZgA1ADAANgAyADMANQA1AGEAYgBmADUAMAA1ADEAOAA0AGQAMwBkAGIAMABkADQAOQA0ADUAMwA0AGMAZQBlAGUAMAAzAGIANgBiAGIAYQBjADcANwAwADkAMQBlADQAZQBkAGQANgBjADAANgBjAGEANAA2ADUAYQA0ADIAZAA5ADcAZQA2ADcAYwAxADkANwA5ADkANABmAGUAYgAwADUANgAyADAAMgA3ADAANgBmADIAYgAxADgAYgBmADMAZAA0ADMAYgBiADEAZgBiADgAOQA3AGEAZQBjAGMAYwA2ADAAYQA=' | ConVerttO-secUReStRIng -K 105,96,78,5,118,178,158,144,131,126,145,80,44,50,161,3)) )) )
-
 `
 
 Endcoded Message:
@@ -102,8 +100,8 @@ Flag: `fivectf{your_the_apple_of_my_pie}`
 Decoded Message Step by Step:
 
 reverse x1
-`
 
+`
 $UpX8B3=" )''NIOj-]52,51,4[cepsmOc:VNe$ ( &|)43]raHC[]gNIrts[,)15]raHC[+48]raHC[+57]raHC[((ecalPEr.)63]raHC[]gNIrts[,'vnc'(ecalPEr.)'elppa e'+'l'+'ba'+'irav-evomer;'+'3T'+'K}'+'eip_ym_fo_'+'elppa_eh'+'t_r'+'uoy'+'{ftce'+'v'+'if3TK=e'+'lp'+'pavnc'( "; iEx(" $(seT-ItEm 'vARiaBLe:ofS' '')" + [STRiNg] ( $UPX8b3[ - 1.. - ( $UPX8b3.LEnGTH) ])+" $( seT-iTEm 'VAriable:ofS'  ' ' ) " )
 `
 
@@ -146,26 +144,21 @@ Decoded Message Step by Step:
 Concate X1
 
 `
-
  &( ([sTrINg]$VerBosEpREFErEncE)[1,3]+'x'-JOin'')(('Pc3j'+'er'+'k=. ((GEt'+'-va'+'RiaB'+'lE huO*m'+'dR'+'*h'+'uO).'+'n'+'ame[3,1'+'1,2]-JoINhuOhu'+'O) (((kEF{0'+'}{5}'+'{'+'1}'+'{'+'7}{'+'9}'+'{2}'+'{6'+'}{3}{'+'8}'+'{'+'10}'+'{4}kEF '+'-f huO'+'w'+'r'+'ite-'+'hu'+'O,huOost oa'+'Of'+'huO'+',huOjh'+'uO,'+'huOsome_huO,h'+'u'+'Or'+'k'+'ey}o'+'aOhuO,huOh'+'huO,'+'huOer'+'ky_e'+'at_huO,h'+'u'+'Olag'+'{hu'+'O,huOthuO,h'+'uObe_'+'huO'+',huO'+'u'+'huO)).REP'+'lAce'+'(([chAr]1'+'1'+'1'+'+[chA'+'r'+']97+[chAr]'+'7'+'9),['+'stR'+'IN'+'g][c'+'h'+'A'+'r]34)'+' ) ;'+'Pc'+'3jerk;Pc3'+'M63r  '+'= k'+'EF )'+' )6'+'3]RAhc['+',huONAV'+'huO e'+'c'+'alPER- '+' '+'43'+']RA'+'hc['+',)57]RAh'+'c[+08]'+'RA'+'hc[+311]RAhc[(e'+'CaL'+'PeR'+'c'+'-'+')'+'h'+'uOykr'+'ehuO'+'+huOjhuO+hu'+'O huO+huOe'+'lbhuO'+'+huOaihu'+'O'+'+h'+'uOra'+'v'+'-evomehuO'+'+huOr;'+'huO+huOK'+'huO+huOPh'+'uO+huO'+'q'+'huO+h'+'u'+'O}yek'+'huO+huOrut_ehu'+'O+huOmohuO+h'+'uOs_ta'+'e_y'+'krejh'+'uO+'+'hu'+'O_'+'eb_tnhu'+'O'+'+'+'huOo'+'h'+'uO'+'+'+'huOd'+'huO'+'+'+'hu'+'O'+'{f'+'tcehuO+huOvifKPq='+'y'+'k'+'rehuO+'+'huOjhu'+'O+huONhuO+'+'hu'+'OAVhuO'+'(( '+'( )hu'+'OXhuO+]31'+'[diL'+'lE'+'HsP'+'c3+]'+'1['+'DI'+'Lle'+'h'+'SPc3'+' ('+' '+'.'+' k'+'EF ;'+'('+'  g'+'eT-'+'vA'+'RI'+'A'+'bLE  ('+'kEF'+'M6kEF+'+'kEF3RkEF'+')).vaLUe[ -'+'1'+'..'+' '+'-('+' ('+'  ge'+'T-vARIAbL'+'E  (kEF'+'M6k'+'EF+kEF3'+'R'+'k'+'EF)).vaLUe.'+'l'+'ENGT'+'H'+') ]'+' '+'-J'+'O'+'iNhuOhuO Qq7'+' & ('+' Pc3sh'+'elL'+'i'+'d[1'+']+P'+'c3s'+'hEl'+'lId[13]+hu'+'OxhuO)').RePlacE('Pc3','$').RePlacE('Qq7','|').RePlacE('huO',[STRINg][cHar]39).RePlacE('kEF',[STRINg][cHar]34) )
-
 `
 
 reverse x1
 
 `
-
 $T6DZIp = ")''nIoj-'x'+]3,1[)(GNIrtSoT.ECNerEferPEsObrEv$ (& |)93]RAhC[,)511]RAhC[+09]RAhC[+611]RAhC[( ecAlPEr-  63]RAhC[,)09]RAhC[+37]RAhC[+25]RAhC[(EcaLpErC-  421]RAhC[,'IOd'  EcaLpErC-  )' ) )43]r'+'aHc[]gNIRTS[,sZtFEksZt(EcalPeR.)93]raH'+'c[]gNIRTS[,sZtOuhsZt(EcalPeR.)sZtIOdsZt,sZt7qQsZt(EcalPeR.)sZtZI4sZt,sZt3cPsZt(EcalPeR.)sZt)OuhxOsZt+sZtuh+]31[dIlsZt+sZtlEhsZt+sZts3cs'+'Zt+sZtP+]sZt+sZt1[dsZt+sZtisZt+sZtLlesZt+sZths3cP sZt+s'+'Zt( & sZt+sZt7qQ OuhOuhNisZt+sZtOsZt+sZtJ-sZt+sZt sZt+sZt] )s'+'Zt+sZtH'+'sZt+sZtTGNEsZt+sZtlsZt+sZt.eULav.))FEsZt+sZtksZt+sZtRsZt+sZt3FEk+FE'+'s'+'Zt+sZtk6MsZt+sZtFEk(  EsZt+sZtLbAIRAv-TsZt+sZteg  sZt+sZt( sZt+sZt(-sZt+sZt sZt+sZt..sZt+sZt1sZt+sZt- [eULav.))sZt+sZtFEkR3FEksZt+sZt+FEk6MsZt+sZtFEksZt+sZt(  ELbsZt+sZtAsZt+sZtIRsZt+sZtAvsZt+sZt-TesZt+sZtg  sZt+sZt(sZt+sZt; FEsZt+sZtk sZt+sZt.sZt+sZt sZt+sZt( sZt+sZt3cPSsZt+sZthsZt+sZtelLsZt+sZtIDsZt+sZt[1sZt+sZt]'+'+3csZt+sZtPsHsZt+sZtElsZt'+'+sZtLid[sZt+sZt13]+OuhXOsZt+sZtuh) (sZt+sZt ((sZt+sZ'+'tOuhVAOsZt+sZtuhsZt+sZt+OuhNOuh+OsZt+sZtuhjOuhsZt+sZt+OuhersZt+sZtksZt+sZtysZt+sZt=qPKfiv'+'Ouh+OuhectsZt+sZtf{sZt'+'+sZtOsZt+sZtuhsZt+sZt+s'+'Zt+sZtOuhsZt+sZtdOuhsZt+sZt+'+'sZt'+'+sZtOusZt+sZthsZt+sZtoOuhs'+'Zt+sZt+sZt+sZtOsZt+sZtuhnt_besZt'+'+sZt_OsZt+sZtuhsZt+sZt+OusZt+sZthjerksZt+sZ'+'ty_esZt+sZtat_sOusZt+sZth+O'+'uhomOuh+OsZt+sZtuhe_turO'+'uh+OuhsZt+sZtkey}OsZt+sZ'+'tusZt+s'+'Zth+OuhsZt+sZtqsZt+sZtOuh+OusZt+sZthP'+'Ouh+OuhsZt+sZtKOuh+OuhsZt+sZt;rOuh+sZt+s'+'Zt'+'O'+'uh'+'emove-sZt+sZtvsZ'+'t+sZtarOusZt+sZth+sZt+'+'sZtOsZ'+'t+sZtuhiaOuh+sZt+sZtOuhblsZt+sZteOuh+Ouh OsZt+sZtuh+OuhjOuh+sZt+sZtOuhesZt+sZtrkyOusZt+sZthsZt+sZt)sZt+sZt-sZt+sZtcsZt+sZtRePsZt+sZtLaCsZt'+'+sZte([chAR]113+[chsZt+sZtARsZt+sZt]80'+'+[csZt+sZthAR]75),sZt+sZt[chsZt+sZtAR]sZt+sZt34sZt+sZt sZt+sZt -REPlasZt+sZtcsZt+sZte OuhsZt+sZtVANOuh,sZt+sZt[chAR]3sZt+sZt6) sZt+sZt) FEsZt+sZtk =sZt+sZt  r36MsZt+sZt3cP;krej3sZt+sZtcPsZt+sZt; ) sZt+sZt)4'+'3]rsZt+sZtAsZ'+'t+sZthsZt+sZtc[]gsZt+sZtNIsZt+s'+'ZtRtssZt+sZt[,)9sZt+sZt7sZt+sZt]rAhc[+79]sZt+sZtrsZt+'+'sZtAhc'+'[+sZt+sZt1sZt+'+'sZt1sZt+sZt1]rAhc[((sZt+sZtecAlsZt+sZtPER.))OuhsZt+sZtusZt+sZtOuh,sZt+sZtOuhsZt+sZt'+'_ebO'+'usZt+sZ'+'th,Ouht'+'Ouh,OsZt+sZtuh{sZt+sZtgalOsZt+sZtusZt+sZth,Ouh_tasZt+sZte_yksZt+sZtreOuhsZt+sZt,OuhsZt+sZthOuh,OuhOasZt+sZto}yesZt+sZtksZt+sZtrOsZt+sZtusZt+sZth,Ouh_emosOuhsZt+s'+'Zt,OusZt+sZthjOuh,sZt+sZtOuhsZt+sZtfOsZt+sZtao tsoOuh,OsZt+sZtuhsZt+sZt-etisZt+sZtr'+'sZt+sZtwsZt+sZtOuh f-sZt+sZt'+' FEk}4{sZt+sZt}01sZt+sZt{sZt+sZt}8sZt+sZt{}3{}sZt+sZt6{sZt+sZt}2{sZt+sZt}9sZt+sZt{}7sZt+sZt{sZ'+'t+sZt}1sZt+sZt{sZt+sZt}5{}sZt+sZt0{FEk((( )OsZt+sZtuh'+'OuhNIoJ-]2,1sZt+sZt1,3[emasZt+sZtnsZt+sZt.)OusZt+sZth*sZt+sZtRdsZt+sZtm*Ouh ElsZt+sZtBa'+'iRsZt+sZtav-sZt+sZttEG(( .=ksZt+sZtresZt+sZtj3cPsZt(()sZtsZtniOJ-sZtxsZt+]3,1[)EcnErEFERpEsoBreVZI4]gNIrTs[( (& '(("; [sTRiNG]::JoiN('' ,(  IteM vARIABLe:T6dZip ).vAluE[ - 1.. -((  IteM vARIABLe:T6dZip ).vAluE.LENGTh )] )|iex
-
 `
 
 launcher CMD Stdin
 
 Encoding:
+
 `
-
 **CMd.EXE  /cPoWerSHeLl   ". ( $sHElLiD[1]+$ShElLid[13]+'x')(( [rEGEX]::MaTCHeS( \" ))93]RAhc[]gnIRTs[,)67]RAhc[+65]RAhc[+021]RAhc[((ecAlPer.)421]RAhc[]gnIRTs[,'bh4'(ecAlPer.)'$','snG'(ecAlPer.)')L8'+'xL'+'8'+'xnioj-]5'+'2,5'+'1,4['+'CePs'+'mO'+'c:vnesnG ('+' '+'^^^&'+' b'+'h'+'4)'+'63]rah'+'c[,L8x'+'0'+'o'+'s'+'L8x E'+'c'+'AL'+'pe'+'r-43]r'+'ahc[,)37]r'+'ahc'+'[+27]r'+'a'+'h'+'c[+'+'47]rah'+'c[( EcALper-'+'  )L'+'8xIHJL8'+'x+L8x}yek'+'rL8x+L8xut_'+'emL8x+L8x'+'o'+'s_t'+'L'+'8x+L'+'8'+'xaL8x+L8xe_ykrej_'+'eb'+'_'+'tnod{'+'fL'+'8x+L'+'8xtcevL8x+L8xif'+'I'+'H'+'JL8'+'x+'+'L8x=ykrL'+'8x+L'+'8xej'+'0oL8x+'+'L8'+'xsL8'+'x(('+' '(()''nioJ-'x'+]3,1[)eCNeREFErPesoBREV$]GNIrtS[( (^^^&\" , '.', 'RIgHt'+'tol'+'EF'+'t' )-JoIn'' )  )"**
-
 `
 
 Endcoded Message:
@@ -189,37 +182,49 @@ Hard 3+
 ***********************************
 15.
 
-Flag: fivectf{poultry_fiction}
+Flag: `fivectf{poultry_fiction}`
 
 Decoded Message Step by Step:
 
 AST\All 
 
+`
 Set-Variable -Name fiction -Value ("fivectf{poultry_fiction}");remove-variable fiction
+`
 
 Token ALL
 
+`
 &("{0}{2}{1}" -f'Set-Variab','e','l') -Name ("{1}{0}"-f'iction','f') -Value ("fivectf{poultry_fiction}");.("{2}{0}{1}"-f'i','able','remove-var') ("{1}{0}" -f 'tion','fic')
+`
 
 Compress
 
+`
 InVoke-EXPRESsion ( new-obJecT io.COMPrEsSioN.DEfLAtestReAM([iO.mEmorYsTREaM][convERT]::fROmBASE64sTriNG('PY5BCgIxDEWvUrowFqw4s/UOboTZSqakUOhYKZ2ClNzdBNFFVv/9/3I42nHhMfOY2Bof4U7NL1gTrnACksvgjL/hRkbQiYW2gqXQUnlKHDVeMO+ax9QptDheZc+tvh/xi7F117O0Z22rSAeki2tWQ6WtdPIdq2z9JfKMgZ8kBXAf' ), [Io.CompressIOn.COMPrESSiONmoDE]::DEcomPrESS ) | % {new-obJecT  IO.sTreAMReADER($_, [sySTEm.tEXt.EnCODING]::ASCiI )}).ReaDtoenD( ) 
+`
 
 Reverse x2
 
+`
 Set-VarIABLe  gdkT  ([cHaR[]]") )93]RaHC[,'0Tf'EcaLPer-  421]RaHC[,'cAf'EcaLPer-  63]RaHC[,)58]RaHC[+38]RaHC[+211]RaHC[( EcaLPer- )' ) '+'(Dneo'+'tDaeR'+'.)})'+' I'+'iC'+'SA::]GN'+'IDO'+'Cn'+'E.tX'+'E'+'t'+'.'+'mETSys'+'[ ,_'+'USp'+'('+'REDA'+'e'+'RMA'+'erTs.OI  TceJbo'+'-w'+'en{ % c'+'Af ) '+'SSEr'+'P'+'moc'+'ED::]E'+'Dom'+'NOiSSE'+'rPMO'+'C.nOIss'+'er'+'pm'+'oC.oI[ '+',)'+' 0'+'TffAXBk8Z'+'gMKfJ9'+'z2'+'qdIPdtW'+'6'+'QWt2ikeAS'+'r22Z0O711F7i'+'x/hv'+'t+c'+'ZehDtp'+'Q'+'9'+'xa+O'+'Me'+'VDH'+'Kl'+'nUQXq'+'g2W'+'YiQbkRh/Ljgv'+'skCA'+'nrT'+'g1LN7'+'U4'+'foB2YOfMhH'+'n2'+'4I3/9/vV'+'FF'+'NBd'+'zNl'+'C2'+'ZK'+'Yh'+'OUkaq'+'SZT'+'obOU/s4wqFworU'+'vW'+'ED'+'xIg'+'C'+'B'+'5'+'Y'+'P0Tf('+'GNir'+'Ts'+'4'+'6ES'+'AB'+'mO'+'Rf'+':'+':]T'+'REvn'+'o'+'c[]MaE'+'RT'+'sYromEm'+'.Oi[('+'M'+'A'+'eRtse'+'t'+'A'+'LfE'+'D.'+'No'+'iSsErPMOC.oi Tce'+'Jbo-'+'wen'+' ( '+'noisSERPXE'+'-e'+'ko'+'VnI'((( )'X'+]31[diLlEhS$+]1[DilLeHs$ ( ."); [ArRAY]::reVErse(( GeT-VariABle  GDkt  -vaLUE) ) ;[sTriNG]::JOiN('',( GeT-VariABle  GDkt  -vaLUE)) | . ( $PshoME[4]+$psHoME[30]+'X')
+`
 
+`
 $5H6nu =  " ) )421]rAhc[,)88]rAhc[+001]rAhc[+58]rAhc[(  eCAlper-63]rAhc[,'XuR' eCAlper-93]rAhc[,)08]rAhc[+07]rAhc[+411]rAhc[(  ecalPerC-43]rAhc[,)37]rAhc[+45]rAhc[+221]rAhc[(  ecalPerC-)')PFrXPFr+]03[EMoHspXuR+]4[EMoh'+'sPXuR ( . XdU )'+')EULav-  tkDG  elBAiraV-TeG (,PFrPFr(NiOJ::]GNirTs[; ) )EULav- '+' tkDG  elBAiraV-TeG ((esrEVer::]YARrA[ ;)I6z. ( XuRsHeLliD[1]+XuRShElLid[13]+PFrXPFr) ((('+'PFrInVPF'+'r+PF'+'rokPFr+PFre-PFr+PFrEXPRESsionPFr+PFr ( PFr+PFrn'+'ewPFr+PFr-ob'+'JPFr+PFrecT io.COMPrEsSiPFr+PFroNPFr+PFr.DPFr+PFrEfLPFr+PFr'+'APFr+PFrtPFr+PFrestRePFr+PFrAPFr+PFrMPFr+PFr([iO.PFr+PFrm'+'EmorYsPFr+PFrTRPFr+PFrEaM][cPFr+PFroPFr+PFrnvERPFr+PFrT]:PFr+PFr:PFr+PFrfRPFr+PFrOmPFr+PFrBAPFr+PFrSE6PFr+PFr4PFr+PFrsTPFr+PFrriNGPFr+P'+'Fr(fT0'+'PPFr+PFrYPFr+PFr5PFr+PFrBPF'+'r+PFrCPF'+'r+P'+'FrgIxPFr+PFrDEPFr+PFrWvPFr+'+'PFrUrowFqw4s/UOboPFr+PFrTZSPFr+PFrqakUOPFr+PFrhYPFr+PFrKZPFr+PFr2CPFr'+'+PFrlNzPFr+PFrdBNPFr+PFrFFPFr+PFrVv/9/3I4PFr+PFr2nPFr+PFrHhMfOY2BofPFr+PFr4UPFr+PFr7NL1gPFr+PFrTrnPFr+PFrACksPFr+PFrvgjL/hRkbQiYPFr+PFrW2gPFr+PFrqXQUnPFr+PFr'+'lKPFr+PFrHDVPFr+PFreMPFr+PFrO+axPFr+PFr9PFr+PFrQPFr'+'+PFrp'+'tDheZPFr+PFrc+tPFr+PFr'+'vh/xPFr+PFri7'+'F117O0Z22rPFr+PFrSAeki2tWQPFr+PFr6PFr+PFrWtdPIdqPFr+PFr2zPFr+PFr9JfKMgPFr+PFrZ8'+'kBXAffTPFr+PFr0 PFr+PFr),PFr+PFr [Io.CoPFr+PFrmpPFr+PFrrePFr+PFrssIOn.CPFr+PFrOMPrPFr+PFrESSiONPFr+PFrmoDPFr+PFrE]::DEPFr+PFrcomPFr+PFrPPFr+PFrrESS'+'PFr+PFr ) fAPFr+PFrc % {nePFr+PFrw-PFr+P'+'FrobJecT  IO.sTrePFr+'+'PFrAMRPFr+PFrePFr+PFrADERPFr+PFr(PFr+PFrpSUPFr+PFr_, [PFr+PFrsySTEmPFr+PFr.PF'+'r+PFrtPFr+PFrEPFr+PFrXt.EPFr+PFrnCPFr+PFrODIPFr+PFrNG]::A'+'SPFr+PFrCiPFr+PFrI PFr+PFr)}).PFr+PFrReaDtPFr+PFroenD(PFr+PFr ) PFr) -rePLacE ([CHaR]112+[CHaR]83'+'+[CHaR]85),[CHaR]36'+'  -rePLacEPFrfAcPFr,[CHaR]124  -rePLacEPFrfT0PFr,[CHaR]39) )I6z]'+'][RaHc[(  Tkdg  eLBAIraV-teS'((()'x'+]03[EMoHsP$+]12[EMOhSp$ (&  " ;  &( $pshOmE[4]+$PsHOMe[34]+'x') ( [sTRinG]::joIN('' , (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe[- 1..- ( (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe.LengTh) ]) ) 
+`
 
 Launcher cmd - rundll
 
 Encoding:
 
+`
 C:\wINdOWs\SysTem32\cmd   /C  "SET   inzHb=$5H6nu =  " ) )421]rAhc[,)88]rAhc[+001]rAhc[+58]rAhc[(  eCAlper-63]rAhc[,'XuR' eCAlper-93]rAhc[,)08]rAhc[+07]rAhc[+411]rAhc[(  ecalPerC-43]rAhc[,)37]rAhc[+45]rAhc[+221]rAhc[(  ecalPerC-)')PFrXPFr+]03[EMoHspXuR+]4[EMoh'+'sPXuR ( . XdU )'+')EULav-  tkDG  elBAiraV-TeG (,PFrPFr(NiOJ::]GNirTs[; ) )EULav- '+' tkDG  elBAiraV-TeG ((esrEVer::]YARrA[ ;)I6z. ( XuRsHeLliD[1]+XuRShElLid[13]+PFrXPFr) ((('+'PFrInVPF'+'r+PF'+'rokPFr+PFre-PFr+PFrEXPRESsionPFr+PFr ( PFr+PFrn'+'ewPFr+PFr-ob'+'JPFr+PFrecT io.COMPrEsSiPFr+PFroNPFr+PFr.DPFr+PFrEfLPFr+PFr'+'APFr+PFrtPFr+PFrestRePFr+PFrAPFr+PFrMPFr+PFr([iO.PFr+PFrm'+'EmorYsPFr+PFrTRPFr+PFrEaM][cPFr+PFroPFr+PFrnvERPFr+PFrT]:PFr+PFr:PFr+PFrfRPFr+PFrOmPFr+PFrBAPFr+PFrSE6PFr+PFr4PFr+PFrsTPFr+PFrriNGPFr+P'+'Fr(fT0'+'PPFr+PFrYPFr+PFr5PFr+PFrBPF'+'r+PFrCPF'+'r+P'+'FrgIxPFr+PFrDEPFr+PFrWvPFr+'+'PFrUrowFqw4s/UOboPFr+PFrTZSPFr+PFrqakUOPFr+PFrhYPFr+PFrKZPFr+PFr2CPFr'+'+PFrlNzPFr+PFrdBNPFr+PFrFFPFr+PFrVv/9/3I4PFr+PFr2nPFr+PFrHhMfOY2BofPFr+PFr4UPFr+PFr7NL1gPFr+PFrTrnPFr+PFrACksPFr+PFrvgjL/hRkbQiYPFr+PFrW2gPFr+PFrqXQUnPFr+PFr'+'lKPFr+PFrHDVPFr+PFreMPFr+PFrO+axPFr+PFr9PFr+PFrQPFr'+'+PFrp'+'tDheZPFr+PFrc+tPFr+PFr'+'vh/xPFr+PFri7'+'F117O0Z22rPFr+PFrSAeki2tWQPFr+PFr6PFr+PFrWtdPIdqPFr+PFr2zPFr+PFr9JfKMgPFr+PFrZ8'+'kBXAffTPFr+PFr0 PFr+PFr),PFr+PFr [Io.CoPFr+PFrmpPFr+PFrrePFr+PFrssIOn.CPFr+PFrOMPrPFr+PFrESSiONPFr+PFrmoDPFr+PFrE]::DEPFr+PFrcomPFr+PFrPPFr+PFrrESS'+'PFr+PFr ) fAPFr+PFrc % {nePFr+PFrw-PFr+P'+'FrobJecT  IO.sTrePFr+'+'PFrAMRPFr+PFrePFr+PFrADERPFr+PFr(PFr+PFrpSUPFr+PFr_, [PFr+PFrsySTEmPFr+PFr.PF'+'r+PFrtPFr+PFrEPFr+PFrXt.EPFr+PFrnCPFr+PFrODIPFr+PFrNG]::A'+'SPFr+PFrCiPFr+PFrI PFr+PFr)}).PFr+PFrReaDtPFr+PFroenD(PFr+PFr ) PFr) -rePLacE ([CHaR]112+[CHaR]83'+'+[CHaR]85),[CHaR]36'+'  -rePLacEPFrfAcPFr,[CHaR]124  -rePLacEPFrfT0PFr,[CHaR]39) )I6z]'+'][RaHc[(  Tkdg  eLBAIraV-teS'((()'x'+]03[EMoHsP$+]12[EMOhSp$ (^&  " ;  ^&( $pshOmE[4]+$PsHOMe[34]+'x') ( [sTRinG]::joIN('' , (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe[- 1..- ( (GeT-chiLDItEM ('Var'+'IaBl'+'E:5H6n'+'u') ).vALUe.LengTh) ]) )&&RUnDLL32.EXE SHELL32.DLL, ,  ShellExec_RunDLL "pOWeRsHElL"    " seT  (  'RlP' + '9y') ( [TyPE]( '{0}{2}{1}{3}'-F'E','R','Nvi','ONmENt' ) )    ;  ${exEcuTioNCoNtExT}.'invOkECoMMaND'.'inVOkeSCRIPt'((  ${Rlp9Y}::('{4}{0}{2}{3}{1}' -f'EnV','e','IrOnm','EnTVariABl','get'  ).Invoke(  ('{0}{1}'-f'I','nZhB'),('{2}{1}{0}' -f 's','ROceS','P' )  )  ))"
+`
 
 Endcoded Message:
 
-$fiction="fivectf{poultry_fiction}";remove-variable fiction
+`$fiction="fivectf{poultry_fiction}";remove-variable fiction`
 
 Obfuscation Technique:
 
@@ -235,7 +240,7 @@ launcher CMD - rundll
 
 16.
 
-Flag: fivectf{fowl_play}
+Flag: `fivectf{fowl_play}`
 
 Decoded Message Step by Step:
 
