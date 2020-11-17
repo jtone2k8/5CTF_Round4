@@ -426,13 +426,23 @@ aaa80aabad0caa050da8a4aba2adabb1a1aab10ca9abb108afa30d03
 
 Obfuscation Technique:
 
-S
+ast
+
+token
+
+Compress
+
+ascii
+
+octal
+
+launcher -> wmic
 
 ***********************************
 
 11.
 
-Flag: `fivectf{silence_of_the_yams}`
+Flag: `fivectf{i_came_in_like_a_butterball}`
 
 Question:
 
@@ -444,8 +454,11 @@ Encoding:
 
 Endcoded Message:
 
+https://gchq.github.io/CyberChef/#recipe=To_Binary('None')Find_/_Replace(%7B'option':'Regex','string':'1'%7D,'%20',true,false,true,false)Find_/_Replace(%7B'option':'Regex','string':'0'%7D,'%5C%5Ct',true,false,true,false)&input=Zml2ZWN0ZntpX2NhbWVfaW5fbGlrZV9hX2J1dHRlcmJhbGx9
 
-`$`
+fivectf{i_came_in_like_a_butterball} -> to binary (no space) -> replace 1 with space; replace 0 with \t
+
+``
 
 Obfuscation Technique:
 
