@@ -7,8 +7,6 @@ Forensics
 
 - [Cain's Memory](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-cainsmemory)
 
-- [Charlotte's Web](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-charlottesweb)
-
 - [The Heist](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-the_heist)
 
 Misc
@@ -24,6 +22,8 @@ Misc
 Net_Analysis
 
 - [Bad Neighbor](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-badneighbor)
+
+- [Charlotte's Web](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-charlottesweb)
 
 - [Frozen](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-frozen)
 
