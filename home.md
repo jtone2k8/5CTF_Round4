@@ -3,6 +3,8 @@ Crypto
 
 - [Hawaiian Rolls](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/crypto-hawaiianrolls)
 
+- [Pass the Potatoes](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/crypto-passthepotatoes)
+
 Forensics
 
 - [Cain's Memory](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/forensics-cainsmemory)
