@@ -3,7 +3,7 @@ Crypto
 
 - [Hawaiian Rolls](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/crypto-hawaiianrolls)
 
-- [Pass the Potatoes](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/crypto-passthepotatoes)
+- [Pass the Potatoes](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/pass-the-potatoes)
 
 Forensics
 
