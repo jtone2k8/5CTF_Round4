@@ -83,25 +83,25 @@ Explanation: This requires looking at the intel documents, process of eliminatio
 - APT HAUNTEDHOUSE is most likely not the APT - while we do not know the nation of this attack and we do see evidence of powershell, there is no proof of AdFind.exe being used. Additionally, powershell was not used to download anymore malware - instead, this attack chain relied on the user to download & execute the HTA.
 - APT Mimisec IS the answer. A database was targeted (the mysql database), and user interaction was utilized rather than the exploitation of existing software. 
 
-21. What is the IP of the sql database? (Validated)
-	Prereq: #19
-	A: 10.0.2.7
-22. What is the name of the database that was accessed? (Validated)
-	Prereq: #21
-	A: crm
-23. What was the query used to dump the table accessed? (Validated)
-	Prereq: #22
-	A: select * from customers
-24. How many customer accounts were compromised during the attack? (Validated)
-	Prereq: #23
-	A: 1000
-25. What encryption algorithim are the customer's passwords stored in? (Validated)
-	Prereq: #24
-	A: MD5 Crypt | MD5
-26. What was the username that accessed the mysql database? (Validated)
-	Prereq: #22
-	A: root
-27. What was the password used for the account? (Validated)
-	Prereq: #22
-	A: P@ssw0rd
+21. What is the IP of the sql database?  
+A: 10.0.2.7  
+Explanation: All of the following MYSQL questions can be answered via the windows logs, and the command line parameters used to connect to the mysql server.
+
+22. What is the name of the database that was accessed?  
+  A: crm
+
+23. What was the query used to dump the table accessed?  
+A: select * from customers
+
+24. How many customer accounts were compromised during the attack?  
+A: 1000
+
+25. What encryption algorithm are the customer's passwords stored in?  
+A: MD5 Crypt | MD5  
+
+26. What was the username that accessed the mysql database?  
+A: root  
+
+27. What was the password used for the account?
+  A: P@ssw0rd
 
