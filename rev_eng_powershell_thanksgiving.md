@@ -580,7 +580,7 @@ theta
 
 ```  
 hint{you_put_fowl_before_the_apples} -> b64 -> aGludHt5b3VfcHV0X2Zvd2xfYmVmb3JlX3RoZV9hcHBsZXN9
-;set-variable -name theta -value ("aGludHt5b3VfcHV0X2Zvd2xfYmVmb3JlX3RoZV9hcHBsZXN9")
+;set-variable -name theta -value ("This is just fowl.... GludHt5b3VfcHV0X2Zvd2xfYmVmb3JlX3RoZV9hcHBsZXN9")
 ```
 
 delta
