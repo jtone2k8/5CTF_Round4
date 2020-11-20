@@ -98,6 +98,7 @@ A: 1000
 
 25. What encryption algorithm are the customer's passwords stored in?  
 A: MD5 Crypt | MD5  
+Explanation: When the SQL dump occurs, you can see the hashed passwords. It'll start with $1$, which indicates MD5 was utilized.
 
 26. What was the username that accessed the mysql database?  
 A: root  
