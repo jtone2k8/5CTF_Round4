@@ -103,6 +103,6 @@ Explanation: When the SQL dump occurs, you can see the hashed passwords. It'll s
 26. What was the username that accessed the mysql database?  
 A: root  
 
-27. What was the password used for the account?
-  A: P@ssw0rd
+27. What was the password used for the account?  
+A: P@ssw0rd
 
