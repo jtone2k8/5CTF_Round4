@@ -33,6 +33,10 @@ Net_Analysis
 
 - [Pursuit](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-pursuit)
 
+- [Skyline](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-skyline)
+
+- [Skyline - Final Lap]((https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_skyline-final-lap)
+
 Programming
 
 - [Jurassic Awk](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/prog-jurassicawk)
