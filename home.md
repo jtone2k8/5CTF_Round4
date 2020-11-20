@@ -35,7 +35,7 @@ Net_Analysis
 
 - [Skyline](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_analysis-skyline)
 
-- [Skyline - Final Lap]((https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_skyline-final-lap)
+- [Skyline - Final Lap](https://gitlab.com/aptgetKubert/holiday_5ctf/-/wikis/net_skyline-final-lap)
 
 Programming
 
