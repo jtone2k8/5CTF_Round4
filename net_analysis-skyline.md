@@ -27,18 +27,28 @@ Explanation:
 ![image](uploads/78154bba8925a269261967e4c7563ad9/image.png)
 
 2.  What was the subject of the e-mail?  
+
 A: Election Cycle! (ELECTION CYCLE also valid)
 
+![image](uploads/e87c99d7bb8b3437f32ff05deb5b7ce1/image.png)
+
 3.  Who was the sender of the email?  
+
 A: cnn_news_team@cnn.com
 
+![image](uploads/e87c99d7bb8b3437f32ff05deb5b7ce1/image.png)
+
 4.	What e-mail addresses was the e-mail sent to? Your answer should be in alphabetical order and comma separated with no spaces. For example: bob@domain.com,jane@domain.com,joe@domain.com  
+
 A: allen_justice@cecilio.local,galen_wilkinson@cecilio.local,jeffry_diaz@cecilio.local,reid_hopper@cecilio.local,roberto_beck@cecilio.local  
 
-5.  Was the e-mail successful in phishing someone If so, what was the domain that was visited by the user? Answer should be in the format: google.com. If you think it was unsuccessful, put in the answer: NA  
+5.  Was the e-mail successful in phishing someone If so, what was the domain that was visited by the user?
+ Answer should be in the format: google.com. If you think it was unsuccessful, put in the answer: NA 
+ 
 A: cnnn.com
 
 6.  You successfully identified that someone at least clicked the link in the phishing e-mail. However, the e-mail was from cnn.com, and the domain was cnnn.com. This is typically done to circumvent people's phishing training by making it look so similar. What is this technique known as? Alternatively, put in the MITRE ATT&CK technique number (TXXXX)  
+
 A: typosquatting | URL Hijacking | T1328 | 1328 | Buy Domain Name  
 Explanation: The malicious domain was cnnn.com, an off by one domain to help trick people that it is a legitimate site, and also to get people who typo the domain.  
 
