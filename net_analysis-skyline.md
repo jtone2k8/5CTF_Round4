@@ -1,12 +1,30 @@
 1.	What MITRE ATT&CK tactic was used for initial access?  
+
 A: T1566
+
 Explanation:
+
 - Go to the Exchange logs
+
 - Find the email from CNN
+
+![image](uploads/e87c99d7bb8b3437f32ff05deb5b7ce1/image.png)
+
 - Grab the malicious IP and filter for it in Wireshark
-- Go down and see that 10.0.2.3 reached out to the same malicious IP, going to cnnn.com
+
+`ip.src == 34.70.11.100`
+
+- Go down and see that 10.0.2.3 reached out to the same malicious IP, going to cnn.com
+
 - See that 10.0.2.3 then downloaded edge_update.hta
+
+![image](uploads/21ba19aaf3de9ec7ac1e723541e4737c/image.png)
+
+![image](uploads/e9dea60b8121b22c1281cf1481fb8956/image.png)
+
 - All of this shows that Spearphishing succeeded, and helps explain how to find some of the following questions.
+
+![image](uploads/78154bba8925a269261967e4c7563ad9/image.png)
 
 2.  What was the subject of the e-mail?  
 A: Election Cycle! (ELECTION CYCLE also valid)
