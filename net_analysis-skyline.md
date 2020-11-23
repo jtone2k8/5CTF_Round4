@@ -52,6 +52,8 @@ In the exchange logs run this command: `cat MSGTRK* | grep -i CNN | cut --delimi
  
 A: cnnn.com
 
+![image](uploads/e47a0e9e27c90d0f92e313f6b6815d53/image.png)
+
 6.  You successfully identified that someone at least clicked the link in the phishing e-mail. However, the e-mail was from cnn.com, and the domain was cnnn.com. This is typically done to circumvent people's phishing training by making it look so similar. What is this technique known as? Alternatively, put in the MITRE ATT&CK technique number (TXXXX)  
 
 A: typosquatting | URL Hijacking | T1328 | 1328 | Buy Domain Name  
