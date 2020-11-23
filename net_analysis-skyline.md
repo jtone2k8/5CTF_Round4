@@ -14,7 +14,7 @@ Explanation:
 
 `ip.src == 34.70.11.100`
 
-- Go down and see that 10.0.2.3 reached out to the same malicious IP, going to cnn.com
+- Go down and see that 10.0.2.3 reached out to the same malicious IP, going to cnnn.com
 
 - See that 10.0.2.3 then downloaded edge_update.hta
 
@@ -41,6 +41,11 @@ A: cnn_news_team@cnn.com
 4.	What e-mail addresses was the e-mail sent to? Your answer should be in alphabetical order and comma separated with no spaces. For example: bob@domain.com,jane@domain.com,joe@domain.com  
 
 A: allen_justice@cecilio.local,galen_wilkinson@cecilio.local,jeffry_diaz@cecilio.local,reid_hopper@cecilio.local,roberto_beck@cecilio.local  
+
+In the exchange logs run this command: `cat MSGTRK* | grep -i CNN | cut --delimiter=, -f13 | sort -u
+`
+
+![image](uploads/869764ff88ec19e302d8803951c88411/image.png)
 
 5.  Was the e-mail successful in phishing someone If so, what was the domain that was visited by the user?
  Answer should be in the format: google.com. If you think it was unsuccessful, put in the answer: NA 
