@@ -54,8 +54,6 @@ In the exchange logs run this command: `cat MSGTRK* | grep -i CNN | cut --delimi
  
 A: cnnn.com
 
-![image](uploads/e47a0e9e27c90d0f92e313f6b6815d53/image.png)
-
 ![image](uploads/3619d310403d8f10def9a15f6fbdbd3f/image.png)
 
 6.  You successfully identified that someone at least clicked the link in the phishing e-mail. However, the e-mail was from cnn.com, and the domain was cnnn.com. This is typically done to circumvent people's phishing training by making it look so similar. What is this technique known as? Alternatively, put in the MITRE ATT&CK technique number (TXXXX)  
@@ -69,9 +67,13 @@ Explanation: The malicious domain was cnnn.com, an off by one domain to help tri
 
 A: edge_update.hta
 
+![image](uploads/e47a0e9e27c90d0f92e313f6b6815d53/image.png)
+
 8.  What is the IP address and hostname of the box that was compromised? Answer format: IP,hostname   
 
 A: 10.0.2.3,WIN10-FIN-001.cecilio.local
+
+
 
 9.	 Based off the intel report just provided, and that a computer interacted with the website cnnn.com, which user actually clicked the e-mail?  
 
