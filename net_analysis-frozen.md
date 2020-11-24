@@ -240,7 +240,18 @@ Well, now they knowLet it go, let it go
 Can't hold it back anymore     	       	  	   	      	   	       
 Let it go, let it go      		       	   	  	      
 Turn away and slam the door	     	   	     	    	   	       
-  
+
+![image](uploads/c20943661cb0a9e8874ec299f36c2a9d/image.png)  
+
+![image](uploads/3ad2a8a905dbbc693fdcb40b981fe1da/image.png)
+
+Install Snow - 
+
+Decode 
+
+snow -C snowme.txt
+
+![image](uploads/5dc1c2661b1ab5a85f0bad7790b216b7/image.png)
 
 >>>
 >>>
