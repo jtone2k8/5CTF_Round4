@@ -38,7 +38,7 @@ def check_letters(enc):
 for ends in comb(poss_endbits, 4):
 	temp = encoded_message
 	temp = sub('[m' + ''.join(ends) + ']', ' ', temp)
-	if check_letters(encoded_message):
+	if check_letters(temp.split()):
 		print(ends)
 
 #==================================================================
