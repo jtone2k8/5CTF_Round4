@@ -36,10 +36,16 @@ def check_letters(enc):
 	return True
 
 for ends in comb(poss_endbits, 4):
+	ends = list(ends)
+	ends.append('m')
+	ends = ''.join(sorted(ends))
 	temp = encoded_message
-	temp = sub('[m' + ''.join(ends) + ']', ' ', temp)
+	temp = sub('[' + ends + ']', ' ', temp)
 	if check_letters(temp.split()):
 		print(ends)
+
+# This returns only 1 possilbe result of endbits
+# jmrxy
 
 #==================================================================
 # STEP 2
@@ -47,7 +53,10 @@ for ends in comb(poss_endbits, 4):
 # a space is the only printable with a single bit turned on
 # spaced is changing every endbit to a space
 
-spaced = 'ctlvo qzgiau cpuokw uzbg d qai d gwufeo wqa vwcko vzgia whqt cdpl d owga hpcwe fqgd abpdv z vfqew eapqd cdvl owtc z czgl dic zoa wcep z pa bodc dusce ncphdo cdvk wap pcsw euaz pdia eczon d slz z vsza ioaugw awtqk igcz pzf d whf toaw w khoza bwgusf tdif lctuw fsgd tza vpbz d z asu ozcvng iagdv vwaps awkv cqw edga tokaz dgif zco kwtc dcon npwvfo atwui qflzv wo z z ans htzs btofz z uza cws czkhs dano hcoz zfo azbp adbt nlaod z iawv goadk dqual ftez w dotevc ehaw ciqw lwap swba pfihz ozcgh w qgczhn goadl zlgc z swf w chw zestc fwigv uaoz wci z iqagvd fpvz w azqugl qndvgc uzkf dgf dflvq d kzsfu qzucip w idaok ipdqua qlcgz d ndc qza vplwc gcwo w cpdio ofiugd uzfe sgfz w cpz wqc ldap azs d kpad sfidug z vloadp nuogwc hldf qczui w ugdask qadb twal ifd phwb z w gauob gecz cwn awgo lwhc vpqlda owan qeavd zcog d naws wgck d qtcvlz cwpuqn qzgfk gnza gcz w cwv gqcz d bfdto otiwva ewvc dpsa d gcd wasn agzv zpcu csdb hdfs opedf bzpa paed piwv d d oc gzcvb zclqb owkgau sza blfwq bgz d qznae tihswc dcste dalv d wghc tbwf zqc czqgu z bsza cezuq w tzau fizg qdf swatv ocvbez pkzc nzc sazg ilfguo zfuktq hanzpq ehad atnd gwc qickth sfzi ldoha ophcbl dvat qfdn hztnf fow cbwt gdbc lbqwc naqlvg awob bwavg qnkcph angzqu vkza tfz tfsd kdch fbgkvs ewpa fzb ecwh gnhoaz kotwf hcwts cnz qlghba zsfp dncvp lczg eavz wihqgf lcz dnceq tikwcs'.split()
+spaced = set(sub('[jmrxy]', ' ', encoded_message).split())
+for let in spaced:
+	if len(let)==1:
+		print(let)
 
 # only 3 letters are by themselves
 # therefore {32: 'dwz'}
