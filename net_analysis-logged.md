@@ -35,4 +35,6 @@ fivectf{32_on_a_test_is_great_right}		base32		8888		45006		UDP
 fivectf{62_is_almost_8_squared}			base62		5353		5003		TCP
 ```
 
+There are also other unencrypted text being sent and the hint is the one that says we are all about that basw (misspelling oopsie)
+
 CTF challenger must decode each line individually to properly decode the message.
