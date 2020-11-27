@@ -73,11 +73,13 @@ A: edge_update.hta
 
 A: 10.0.2.3,WIN10-FIN-001.cecilio.local
 
-
+![image](uploads/8e8011551bae775ce2d736c1d0e0501c/image.png)
 
 9.	 Based off the intel report just provided, and that a computer interacted with the website cnnn.com, which user actually clicked the e-mail?  
 
 	A: allen_justice  
+
+
 
 Explanation: The intel provided a hint that HTAs should be searched for, and only one user downloaded edge_update.hta. This user was allen_justice.
 
