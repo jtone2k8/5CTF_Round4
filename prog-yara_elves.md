@@ -144,7 +144,7 @@ rule creative
 
     strings:
 
-	$creative = /cr!*e!*@*a@*t1*i1*ve/ nocase wide
+	$creative = /cr!*e!*@*a@*t1*i1*v!*e!*/ nocase wide
 
     condition:
 
