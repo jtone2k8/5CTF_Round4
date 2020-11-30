@@ -98,7 +98,7 @@ Santa outsourced this list making ability to head elf, Peppermint Candy, But her
 
 Santa was hoping for lots of small toy to cut out of control costs, how many Shopkins were made?
 
-Flag - 0
+Flag - 1
 
 2 - 
 
@@ -121,7 +121,7 @@ rule shopkins
 
     strings:
 
-	$shopkin = /sh\(*\)*\(*\)*o\(*\)*\(*\)*pk1*i1*ns/ nocase wide
+	$shopkin = /sh\(*\)*\(*\)*\(*\)*o\(*\)*\(*\)*\(*\)*pk1*i1*ns/ nocase wide
 
     condition:
 
