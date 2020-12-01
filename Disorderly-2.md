@@ -71,29 +71,13 @@ for let in spaced:
 # know from the alphabet before we start (leave d, w, and z because 
 # they're in other letters
 
-letter_dict = {
-    'a': 'abcdefghiklnopqstuvwz',
-    'b': 'abcdefghiklnopqstuvwz',
-    'c': 'abcdefghiklnopqstuvwz',
-    'd': 'abcdefghiklnopqstuvwz',
-    'e': 'abcdefghiklnopqstuvwz',
-    'f': 'abcdefghiklnopqstuvwz',
-    'g': 'abcdefghiklnopqstuvwz',
-    'h': 'abcdefghiklnopqstuvwz',
-    'i': 'abcdefghiklnopqstuvwz',
-    'k': 'abcdefghiklnopqstuvwz',
-    'l': 'abcdefghiklnopqstuvwz',
-    'n': 'abcdefghiklnopqstuvwz',
-    'o': 'abcdefghiklnopqstuvwz',
-    'p': 'abcdefghiklnopqstuvwz',
-    'q': 'abcdefghiklnopqstuvwz',
-    's': 'abcdefghiklnopqstuvwz',
-    't': 'abcdefghiklnopqstuvwz',
-    'u': 'abcdefghiklnopqstuvwz',
-    'v': 'abcdefghiklnopqstuvwz',
-    'w': 'abcdefghiklnopqstuvwz',
-    'z': 'abcdefghiklnopqstuvwz',
-}
+alphabet = list('abcdefghijklmnopqrstuvwxyz')
+[alphabet.remove(letter) for letter in list('jmrxy')]
+    
+
+letter_dict = {}
+for letter in alphabet:
+    letter_dict[letter] = ''.join(alphabet)
 
 for letters in spaced:
 	for l in letters:
