@@ -69,8 +69,9 @@ A: 10/21/2020 03:43
 19.	What protocol was used to exfil the Bloodhound file?  
 A: 80  
 
-20. Was another file exfilled?
-A: Yes | True
+ ~~20. Was another file exfilled?~~
+
+ ~~A: Yes | True~~
 
 21. You correctly identified another file was exfilled - but how was it collected? Provide the MITRE ATT&CK Tactic number, including subtechnique
 A: T1074.002  
