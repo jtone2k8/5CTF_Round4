@@ -298,3 +298,68 @@ flag: 8
 
 */
 >>>
+
+Level 4 Questions 
+
+Santa found sdrowkcab the elf to transcribe his order this time, but apparently he hired the one elf that can not seem to do anything right.
+​
+1-
+
+How many Batman Action Figures did he have sdrowkcab write down?
+
+flag: 2
+
+2-
+
+Which elves were assigned? first names only with a common and no space separating.
+
+flag: 
+
+tangy,lucky or lucky,tangy
+
+3-
+
+How many Rainbowcorn dolls were added to the list??
+
+flag: 
+
+7
+
+4:
+
+How many elves had to make toys in the sound category?
+
+flag:
+
+57
+
+rule batman
+{
+	strings:
+		$bat1 = /-\|-ab|tab/ wide ascii nocase
+		$bat2 = /nann|nam/ wide ascii nocase
+		$bat3 = /-\|-ca|tca/ wide ascii nocase
+/*
+		$bat5 = "nam-|-ab" fullword wide ascii nocase
+		$bat6 = "nannttab" fullword wide ascii nocase
+		$bat7 = "namtaB" fullword wide ascii nocase
+*/
+	condition:
+		all of them
+}
+rule rainbowcorn
+{
+	strings:
+		$rainbow1 = "nrocwobniaR" fullword wide ascii nocase
+		$rainbow2 = "nrocmobniaR" fullword wide ascii nocase
+		$rainbow3 = "nrocmwmobniaR" fullword wide ascii nocase
+	condition:
+		any of them
+}
+rule sound
+{
+	strings:
+		$music1 = /\)nuos*|bnuos*|dnuos*/ nocase wide ascii
+	condition:
+		any of them
+}
