@@ -333,33 +333,62 @@ flag:
 
 57
 
+```
 rule batman
+
 {
+
 	strings:
+
 		$bat1 = /-\|-ab|tab/ wide ascii nocase
+
 		$bat2 = /nann|nam/ wide ascii nocase
+
 		$bat3 = /-\|-ca|tca/ wide ascii nocase
+
 /*
+
 		$bat5 = "nam-|-ab" fullword wide ascii nocase
+
 		$bat6 = "nannttab" fullword wide ascii nocase
+
 		$bat7 = "namtaB" fullword wide ascii nocase
 */
 	condition:
+
 		all of them
+
 }
+
 rule rainbowcorn
+
 {
+
 	strings:
+
 		$rainbow1 = "nrocwobniaR" fullword wide ascii nocase
+
 		$rainbow2 = "nrocmobniaR" fullword wide ascii nocase
+
 		$rainbow3 = "nrocmwmobniaR" fullword wide ascii nocase
+
 	condition:
+
 		any of them
+
 }
+
 rule sound
+
 {
+
 	strings:
+
 		$music1 = /\)nuos*|bnuos*|dnuos*/ nocase wide ascii
+
 	condition:
+
 		any of them
+
 }
+```
