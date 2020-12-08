@@ -331,7 +331,7 @@ How many elves had to make toys in the sound category?
 
 flag:
 
-57
+52
 
 ```
 rule batman
@@ -384,7 +384,7 @@ rule sound
 
 	strings:
 
-		$music1 = /\)nuos*|bnuos*|dnuos*/ nocase wide ascii
+		$music1 = /\)nuos+|bnuos+|dnuos+/ nocase wide ascii
 
 	condition:
 
